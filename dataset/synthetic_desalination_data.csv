@@ -1,0 +1,1501 @@
+Plant Location,Plant Capacity (m³/day),Project Award Year,Raw Water Salinity (mg/L),Plant Type,Project Financing Type,Capital Cost (USD)
+Saudi Arabia,665,1980,22501,Brackish water,PPP,9439000.0
+South Africa,80092,2009,17331,Sea water,Private,16966000.0
+India,2019,2024,26104,Sea water,PPP,11443821.0
+Saudi Arabia,1563,2011,15616,Waste water,Public,11036000.0
+USA,22529,2007,28560,Brackish water,Public,2065176.0
+USA,92943,2000,11261,Waste water,Public,19343000.0
+USA,32346,1992,22173,Sea water,Public,15611000.0
+Brazil,14241,2006,22377,Brackish water,Private,13050000.0
+India,14687,2015,16022,Sea water,Private,9978000.0
+India,19023,1986,22121,Brackish water,Public,8338000.0
+USA,17308,2001,26397,Waste water,Public,15489000.0
+South Africa,10734,1989,8915,Waste water,Public,6485000.0
+Brazil,8992,2018,22513,Brackish water,Public,14419344.0
+Germany,7611,1994,7533,Brackish water,Public,12833923.0
+USA,3812,1994,15171,Waste water,Public,11011000.0
+USA,6120,1983,28145,Brackish water,Public,14719000.0
+Germany,1490,2011,17091,Sea water,Public,14616000.0
+Saudi Arabia,7344,2002,14130,Brackish water,Public,13356000.0
+Saudi Arabia,3015,1985,19010,Sea water,Public,8843000.0
+Germany,2687,2003,30339,Brackish water,Private,20035000.0
+India,9700,1999,10841,Brackish water,Public,8268000.0
+USA,32597,2016,14743,Brackish water,PPP,22581000.0
+Germany,20298,1999,27487,Sea water,Public,16085000.0
+Saudi Arabia,1684,1991,29288,Sea water,Public,11144000.0
+Saudi Arabia,3012,2012,19482,Brackish water,Public,15926000.0
+India,20759,2007,13804,Waste water,Public,7814000.0
+USA,3033,1987,30479,Brackish water,PPP,15143000.0
+Saudi Arabia,6472,1980,27972,Sea water,Public,9258000.0
+Saudi Arabia,14045,2016,23394,Waste water,PPP,13444000.0
+USA,3076,2001,15937,Waste water,PPP,11641000.0
+India,9003,1985,19754,Sea water,Private,6534000.0
+USA,2134,2000,19198,Sea water,Private,14756000.0
+USA,4440,2011,21654,Waste water,Private,16156000.0
+South Africa,11156,2014,27255,Waste water,Public,11898000.0
+South Africa,1647,1994,24397,Waste water,Private,8665000.0
+Brazil,12587,1984,14613,Waste water,Public,5893000.0
+Germany,7945,1985,26882,Brackish water,Public,14195000.0
+USA,14079,2004,21565,Brackish water,Public,19893000.0
+India,10136,2019,23435,Sea water,Private,11179000.0
+Saudi Arabia,31702,2008,27332,Sea water,PPP,15699000.0
+USA,9184,1986,14442,Brackish water,Public,13221000.0
+Saudi Arabia,5274,2019,19820,Brackish water,PPP,16715000.0
+USA,9157,1992,17342,Brackish water,Public,15250000.0
+South Africa,13950,2017,12160,Waste water,Public,10285000.0
+Germany,8508,1997,21733,Sea water,Public,13542000.0
+India,8438,1981,32557,Brackish water,Public,8072000.0
+Germany,4015,1987,10799,Sea water,Public,9523000.0
+Saudi Arabia,4175,1990,19838,Brackish water,Private,12429000.0
+Saudi Arabia,1992,2012,23202,Waste water,PPP,11828000.0
+USA,46610,2017,20615,Brackish water,Public,27945000.0
+South Africa,2335,2006,19434,Waste water,Public,9175000.0
+India,4052,1999,13503,Sea water,PPP,6511000.0
+South Africa,3950,1991,21163,Brackish water,Private,10707000.0
+Brazil,19829,2022,16216,Sea water,Public,11977000.0
+Saudi Arabia,6033,2010,9050,Brackish water,Public,13585000.0
+South Africa,28218,2006,25972,Waste water,PPP,11091000.0
+USA,4131,2011,24791,Brackish water,Private,22411000.0
+USA,10710,1989,20258,Waste water,Public,11443000.0
+USA,3514,1982,21145,Sea water,Public,10804000.0
+Germany,69227,2024,25371,Waste water,PPP,23448000.0
+Saudi Arabia,2471,2006,21121,Sea water,Public,12538000.0
+Germany,11045,2014,24520,Waste water,PPP,15249000.0
+Brazil,15272,2010,18512,Sea water,Public,10417000.0
+Saudi Arabia,12256,1994,26559,Sea water,Private,12701000.0
+Germany,6732,1995,21603,Brackish water,Public,15555000.0
+Saudi Arabia,7116,1992,20970,Waste water,Public,9482000.0
+USA,8465,2014,13649,Sea water,PPP,15396000.0
+Brazil,6995,1990,21434,Sea water,Public,7688000.0
+USA,21245,2000,15840,Waste water,Private,14451000.0
+South Africa,73904,1990,16808,Sea water,Public,11829000.0
+India,4640,2009,15923,Sea water,Public,8195000.0
+USA,2059,2014,14668,Brackish water,Public,18874000.0
+USA,7418,2001,30623,Sea water,Private,17963000.0
+Brazil,106906,2017,26656,Waste water,Public,17421000.0
+India,3627,2010,29601,Waste water,Public,8910000.0
+India,41735,1993,13885,Brackish water,Public,9739000.0
+India,43377,2003,20356,Waste water,Private,9676000.0
+USA,4658,2011,13532,Brackish water,Private,19205000.0
+Saudi Arabia,14313,2015,16521,Sea water,Public,14279000.0
+USA,41290,2011,15409,Sea water,Public,19866000.0
+Brazil,5546,1994,26197,Brackish water,PPP,9825000.0
+India,6610,2022,18018,Sea water,Public,9974000.0
+Germany,4529,2014,25341,Waste water,PPP,14785000.0
+USA,2937,1982,23020,Waste water,PPP,9412000.0
+Germany,4233,1995,31518,Sea water,Private,15221000.0
+Germany,2382,1984,12602,Brackish water,Public,10996000.0
+India,8384,2000,26296,Waste water,PPP,7302000.0
+India,3751,1989,25732,Waste water,Private,6594000.0
+Brazil,10237,1998,15133,Waste water,Private,7739000.0
+Saudi Arabia,1709,2004,25035,Brackish water,Public,15365000.0
+USA,11281,1983,21680,Waste water,Public,10511000.0
+India,18648,2008,18862,Brackish water,Public,11124000.0
+India,1103,1998,15880,Brackish water,Private,8673000.0
+Saudi Arabia,11778,2022,16404,Sea water,Private,15962000.0
+India,27657,1981,30249,Sea water,Public,7293000.0
+Saudi Arabia,2417,1989,20003,Brackish water,Public,11495000.0
+Saudi Arabia,43155,2022,23910,Sea water,Public,20029000.0
+Saudi Arabia,12320,2004,16045,Sea water,Private,12824000.0
+USA,4003,1999,16100,Waste water,PPP,11419000.0
+USA,7663,1998,25409,Sea water,Public,15357000.0
+USA,14162,2002,13252,Brackish water,Public,17319000.0
+India,8742,2003,17923,Brackish water,Public,9626000.0
+Germany,13887,1990,20170,Waste water,Private,11660000.0
+Saudi Arabia,3227,2013,20556,Brackish water,Private,17251000.0
+South Africa,9598,2007,19104,Sea water,PPP,10243000.0
+Germany,1970,1984,21979,Brackish water,Public,12577000.0
+Saudi Arabia,7250,1984,23464,Waste water,PPP,8092000.0
+India,3281,2000,23673,Waste water,Public,7212000.0
+Germany,3883,1991,15070,Brackish water,Private,13735000.0
+USA,27891,1983,18579,Sea water,Public,12465000.0
+Germany,24132,2021,25973,Waste water,PPP,18170000.0
+USA,14900,1999,24473,Sea water,Private,16958000.0
+South Africa,2718,2017,13135,Brackish water,Private,13466000.0
+Brazil,5905,2004,21757,Brackish water,PPP,10747000.0
+India,27257,1993,10108,Sea water,Public,7061000.0
+Brazil,9336,1990,20234,Sea water,Public,7685000.0
+Brazil,82399,2011,29488,Sea water,PPP,15837000.0
+USA,12007,1990,15260,Brackish water,Public,14623000.0
+Brazil,9818,1997,15828,Waste water,Public,7294000.0
+Saudi Arabia,5948,2006,23820,Sea water,Public,13307000.0
+Brazil,9260,1997,12285,Waste water,Private,7263000.0
+Brazil,6957,2002,16836,Sea water,Public,8657000.0
+Germany,16450,1990,22982,Brackish water,Public,15553000.0
+USA,21093,2000,16828,Sea water,Public,15436000.0
+Germany,3692,2023,18820,Waste water,Public,15733000.0
+Saudi Arabia,2140,1984,23720,Waste water,PPP,7851000.0
+Brazil,1291,2002,22107,Brackish water,PPP,10183000.0
+Brazil,13466,2020,21334,Waste water,Private,11382000.0
+USA,2688,2004,18304,Brackish water,Public,17627000.0
+Saudi Arabia,941,2020,21850,Waste water,PPP,12653000.0
+Saudi Arabia,11951,1989,19381,Waste water,Private,9603000.0
+Germany,98027,2001,22289,Waste water,Public,20618000.0
+USA,8054,1998,17515,Brackish water,PPP,15762000.0
+Germany,18741,1980,19087,Sea water,Private,10984000.0
+South Africa,8794,1986,15050,Brackish water,Private,9334000.0
+Germany,7340,1983,19824,Sea water,Private,10907000.0
+Saudi Arabia,20314,1980,15944,Brackish water,Public,10411000.0
+India,6061,1994,14429,Brackish water,Public,7875000.0
+Saudi Arabia,10587,2019,21293,Brackish water,Private,19631000.0
+South Africa,11177,1991,21063,Sea water,Public,8884000.0
+South Africa,4154,2001,23914,Sea water,Public,10251000.0
+Germany,21851,2001,17844,Brackish water,Private,18791000.0
+Saudi Arabia,6802,1996,22040,Waste water,Private,10755000.0
+Germany,3805,2008,22753,Sea water,Public,15490000.0
+Germany,13856,1993,22223,Brackish water,Private,16755000.0
+USA,3299,1999,15871,Waste water,PPP,11321000.0
+India,8334,2012,20746,Brackish water,Private,11794000.0
+Saudi Arabia,8029,2022,21820,Sea water,Public,15907000.0
+USA,24002,1994,20035,Brackish water,Public,17956000.0
+Germany,13025,1991,9567,Sea water,Public,10722000.0
+South Africa,7902,2019,20802,Waste water,Public,11377000.0
+Germany,18357,1999,31062,Sea water,Public,16563000.0
+USA,32539,2009,18199,Sea water,Public,19018000.0
+Saudi Arabia,14154,2017,16359,Sea water,Public,14567000.0
+South Africa,8187,1982,21866,Sea water,PPP,7110000.0
+Germany,2182,2007,21561,Waste water,Public,13393000.0
+India,2793,2005,25963,Sea water,Private,9283000.0
+India,5971,2009,13710,Sea water,Private,8430000.0
+Germany,4404,1992,23656,Brackish water,Public,15013000.0
+India,6721,1992,22952,Sea water,PPP,6813000.0
+Saudi Arabia,8575,1981,19289,Sea water,Private,9006000.0
+India,13762,2016,21693,Waste water,Public,9244000.0
+India,7551,2017,25147,Waste water,Private,9887000.0
+Saudi Arabia,13180,1981,24361,Waste water,Public,8472000.0
+USA,8642,2015,14284,Waste water,Private,15745000.0
+Brazil,1123,2005,24100,Brackish water,Public,11490000.0
+Germany,3167,1990,19676,Sea water,PPP,10774000.0
+USA,7015,1987,20364,Waste water,Public,10800000.0
+USA,2417,2023,20365,Waste water,Private,17972000.0
+Saudi Arabia,14763,2019,19248,Waste water,Public,13995000.0
+India,37449,2022,25958,Brackish water,Private,16725000.0
+USA,27412,2001,19581,Sea water,Private,17740000.0
+Saudi Arabia,6545,1999,14402,Waste water,Public,9582000.0
+Germany,35980,1987,18032,Waste water,Private,12356000.0
+India,9401,2008,20893,Waste water,Public,8066000.0
+USA,5784,2019,26146,Sea water,PPP,18993000.0
+India,4387,2005,23015,Sea water,Public,8574000.0
+Saudi Arabia,5988,2009,15747,Sea water,PPP,11730000.0
+South Africa,5496,1996,32425,Waste water,PPP,9107000.0
+USA,9608,1999,21323,Sea water,Public,14970000.0
+Germany,9514,1995,26376,Sea water,Public,14028000.0
+USA,8127,2022,19241,Waste water,Public,17298000.0
+South Africa,12543,1986,22666,Sea water,PPP,7957000.0
+Brazil,26652,1995,24197,Waste water,Public,8755000.0
+Germany,20942,2024,26090,Sea water,Private,22783000.0
+India,1835,2006,25286,Waste water,PPP,7506000.0
+Brazil,630,2002,24360,Brackish water,Public,11033000.0
+Saudi Arabia,20626,2003,18424,Waste water,Private,12415000.0
+Saudi Arabia,2065,1988,17141,Waste water,Public,8114000.0
+Germany,6471,2014,21663,Sea water,Public,16735000.0
+USA,2514,1999,24665,Sea water,Private,15716000.0
+Brazil,1336,2016,18886,Sea water,Public,10229000.0
+South Africa,13925,2021,25325,Brackish water,Public,17073000.0
+India,17311,1996,27263,Waste water,PPP,7349000.0
+Germany,4552,2010,15418,Brackish water,Public,17286000.0
+Germany,607,1987,15815,Brackish water,PPP,11397000.0
+India,4692,1994,19298,Sea water,PPP,6603000.0
+Brazil,11989,2010,21538,Waste water,Public,9546000.0
+Brazil,1846,2009,17377,Waste water,Public,8304000.0
+India,9733,1999,26761,Sea water,Private,9012000.0
+India,7979,2018,22120,Brackish water,Public,12216000.0
+USA,14462,1991,20197,Sea water,Public,13461000.0
+USA,9132,1996,12820,Brackish water,Private,16011000.0
+Brazil,3062,2021,13420,Brackish water,Public,12128000.0
+India,26811,2009,21405,Sea water,PPP,9648000.0
+USA,6915,2008,9337,Brackish water,Public,16751000.0
+USA,7884,1998,25063,Sea water,Public,15311000.0
+India,3186,1990,19209,Brackish water,Public,7749000.0
+USA,5201,2013,36215,Brackish water,PPP,23884000.0
+USA,3344,1986,31539,Sea water,Private,13979000.0
+Saudi Arabia,6816,2023,19092,Waste water,PPP,13107000.0
+India,44878,2013,19468,Waste water,Public,10435000.0
+India,2055,1999,24977,Sea water,Public,7971000.0
+Germany,1613,2017,28515,Sea water,Public,18357000.0
+India,35283,2003,11809,Waste water,Public,7934000.0
+Germany,6572,1989,11068,Waste water,Private,9568000.0
+Germany,4150,2011,16889,Sea water,Private,15641000.0
+India,22923,1994,22913,Sea water,Public,8208000.0
+India,4422,2016,22484,Sea water,PPP,9250000.0
+Brazil,50312,1999,25348,Brackish water,Public,14230000.0
+India,15961,1982,14001,Sea water,PPP,5390000.0
+Saudi Arabia,4974,2016,8419,Sea water,Public,11942000.0
+USA,70074,2019,24290,Brackish water,Public,33277000.0
+Saudi Arabia,4421,1987,15859,Brackish water,Public,10616000.0
+Germany,17019,2019,9907,Sea water,Public,16197000.0
+Germany,10930,2023,20725,Brackish water,Private,23808000.0
+South Africa,29784,2002,23965,Brackish water,Public,14587000.0
+Saudi Arabia,38619,2019,19389,Sea water,Public,17999000.0
+Brazil,8366,1990,17710,Sea water,Private,7764000.0
+India,3814,1987,19203,Waste water,Private,5837000.0
+India,12835,2008,18147,Sea water,PPP,8375000.0
+Saudi Arabia,4114,2009,13259,Waste water,Public,10588000.0
+Saudi Arabia,60681,1989,16426,Waste water,Private,12332000.0
+Saudi Arabia,9288,2018,22606,Sea water,Private,16315000.0
+USA,5623,2007,21608,Sea water,Public,16331000.0
+India,9746,2015,20840,Brackish water,Public,11739000.0
+Germany,2106,1992,15024,Waste water,Public,9808000.0
+USA,3066,2011,19092,Waste water,Public,14673000.0
+India,26914,2015,9114,Waste water,Public,8439000.0
+USA,4201,2016,20892,Sea water,Public,17890000.0
+South Africa,2844,2005,27144,Brackish water,Private,14142000.0
+South Africa,13858,2001,12629,Brackish water,Private,11853000.0
+South Africa,26521,1983,17070,Brackish water,PPP,9196000.0
+Saudi Arabia,16629,2010,21645,Sea water,Private,15352000.0
+USA,21939,1997,26264,Sea water,Public,16657000.0
+South Africa,3801,2017,17758,Waste water,PPP,9818000.0
+Saudi Arabia,1955,2003,16538,Brackish water,PPP,12775000.0
+South Africa,36363,2002,10155,Sea water,Public,10716000.0
+South Africa,5868,2001,20517,Sea water,Private,10430000.0
+Brazil,6305,1981,30210,Waste water,PPP,6199000.0
+Germany,30582,2010,21386,Waste water,Private,17474000.0
+Saudi Arabia,14132,1990,19888,Sea water,PPP,9973000.0
+Brazil,12783,2007,21610,Sea water,Public,10270000.0
+Germany,70615,2011,19944,Sea water,Public,22677000.0
+USA,4257,1984,15934,Waste water,Public,9427000.0
+Saudi Arabia,20493,2017,24116,Brackish water,Private,21138000.0
+South Africa,8578,1989,21128,Brackish water,PPP,9611000.0
+India,10599,2019,20088,Brackish water,PPP,11594000.0
+Saudi Arabia,37364,2003,15123,Sea water,Public,13949000.0
+USA,13464,2014,26517,Waste water,Public,17937000.0
+India,13881,2023,23323,Brackish water,PPP,12899000.0
+South Africa,23682,2002,17235,Sea water,Private,11387000.0
+USA,5625,1996,25009,Sea water,Public,14638000.0
+Saudi Arabia,3500,1980,17512,Brackish water,Public,9475000.0
+Brazil,2850,2010,16089,Waste water,Private,8750000.0
+India,1134,2010,16201,Sea water,Private,8546000.0
+India,63335,2021,11144,Waste water,Public,11554000.0
+India,2688,2021,22357,Waste water,Public,9175000.0
+Saudi Arabia,6494,2013,10844,Sea water,PPP,11490000.0
+Germany,6143,1988,13857,Sea water,Private,10869000.0
+Brazil,11019,2001,9622,Sea water,Public,7908000.0
+Brazil,18319,1992,19569,Waste water,Public,7512000.0
+Brazil,19157,2004,19248,Sea water,Private,10500000.0
+South Africa,4522,1997,18366,Sea water,Public,8991000.0
+Saudi Arabia,6855,1991,14787,Brackish water,Public,11385000.0
+Saudi Arabia,10749,2019,14138,Waste water,Private,13363000.0
+India,6318,1996,22321,Sea water,Public,7572000.0
+India,40430,1994,17247,Brackish water,Private,10747000.0
+India,13239,2021,21581,Brackish water,Public,12980000.0
+India,16896,1994,15573,Brackish water,Private,9096000.0
+Brazil,15723,1994,20905,Waste water,Public,7758000.0
+Germany,26198,2018,26516,Sea water,Public,20977000.0
+Saudi Arabia,9711,1992,22930,Waste water,Public,9896000.0
+USA,2215,1996,17937,Brackish water,PPP,14764000.0
+Saudi Arabia,12084,2011,21285,Brackish water,PPP,16235000.0
+USA,4224,1988,18796,Brackish water,Public,14065000.0
+Saudi Arabia,4776,2019,20039,Brackish water,Private,18564000.0
+Saudi Arabia,14564,1999,18371,Sea water,Private,12528000.0
+Germany,27953,2005,19178,Brackish water,PPP,18859000.0
+Saudi Arabia,8277,2006,21060,Brackish water,Public,15636000.0
+USA,11035,2000,15033,Brackish water,Private,17779000.0
+USA,44454,1997,14920,Sea water,Public,16641000.0
+Brazil,10308,1992,13057,Waste water,Public,6509000.0
+Saudi Arabia,109281,1995,11998,Brackish water,PPP,19651000.0
+USA,14264,1988,13913,Sea water,Private,12362000.0
+Saudi Arabia,1393,1991,20797,Brackish water,Public,11932000.0
+India,17211,2023,15536,Waste water,Public,9433000.0
+Germany,11862,2017,22568,Waste water,Private,17210000.0
+India,29429,1998,20173,Brackish water,Private,11083000.0
+USA,15885,1986,10157,Waste water,Public,9782000.0
+USA,7055,2014,23274,Sea water,PPP,17419000.0
+Saudi Arabia,2382,1997,24053,Brackish water,Public,13793000.0
+Saudi Arabia,6574,1995,15030,Waste water,Public,9112000.0
+India,3461,2018,22100,Waste water,PPP,8420000.0
+India,4534,1983,15717,Brackish water,Public,6572000.0
+South Africa,14597,2004,20488,Waste water,Public,9843000.0
+Saudi Arabia,43040,2011,13677,Sea water,Private,16562000.0
+Germany,12024,2019,11034,Waste water,PPP,13533000.0
+India,2450,1992,18085,Sea water,Public,6532000.0
+Germany,12639,2024,19381,Sea water,PPP,17932000.0
+Saudi Arabia,26812,1996,18011,Sea water,Private,12896000.0
+USA,4403,2016,14079,Brackish water,Public,19494000.0
+USA,7086,1985,18000,Sea water,Private,11805000.0
+South Africa,8222,1998,21346,Sea water,Public,9749000.0
+Brazil,3696,1992,19775,Sea water,Public,7593000.0
+India,15495,2005,20912,Sea water,Private,9439000.0
+Saudi Arabia,7179,1993,16649,Brackish water,PPP,11470000.0
+USA,12326,2010,25858,Brackish water,Public,22441000.0
+USA,3335,1983,14119,Sea water,Public,9937000.0
+Germany,5231,2018,22437,Waste water,Public,15811000.0
+Saudi Arabia,16686,1987,25909,Waste water,Public,9854000.0
+India,5581,2004,22404,Waste water,Public,7612000.0
+India,45568,1992,18987,Sea water,Public,8648000.0
+Germany,5433,2011,17358,Waste water,Private,14304000.0
+South Africa,10144,2017,25180,Sea water,Public,13266000.0
+India,20590,2017,12885,Sea water,Public,9677000.0
+Saudi Arabia,1961,2007,15149,Sea water,PPP,10999000.0
+India,1392,2009,18012,Waste water,PPP,7035000.0
+Saudi Arabia,1762,1982,26188,Sea water,Public,9137000.0
+Germany,28640,2007,21898,Sea water,Public,17659000.0
+Saudi Arabia,4666,1982,15159,Sea water,Private,8423000.0
+India,104631,2024,18448,Waste water,Public,15529000.0
+USA,4608,2013,16928,Brackish water,Public,19652000.0
+USA,9745,1995,16451,Sea water,Private,13908000.0
+USA,37877,2001,24894,Brackish water,Public,22784000.0
+USA,60240,2011,13141,Brackish water,Public,25835000.0
+Brazil,63672,2017,28043,Brackish water,Public,19616000.0
+India,27129,1987,24141,Sea water,Public,7599000.0
+Saudi Arabia,22562,1987,25454,Waste water,Public,10145000.0
+USA,14654,1985,17685,Sea water,PPP,11139000.0
+Saudi Arabia,17647,1993,19250,Brackish water,Public,13457000.0
+Saudi Arabia,4669,2011,12834,Sea water,Public,12035000.0
+USA,3575,2014,17376,Sea water,Public,16558000.0
+Saudi Arabia,8075,1989,22468,Sea water,PPP,9750000.0
+Saudi Arabia,6835,1982,26480,Brackish water,Private,11965000.0
+India,5150,1991,14464,Sea water,Public,6216000.0
+India,16258,2010,18172,Waste water,PPP,7911000.0
+USA,21063,2008,19243,Sea water,Public,17734000.0
+Saudi Arabia,8852,1984,13021,Brackish water,Public,9965000.0
+India,35508,2004,22956,Waste water,Public,9183000.0
+Saudi Arabia,2587,2020,16380,Brackish water,Public,16664000.0
+Brazil,6676,2010,19023,Waste water,Public,8909000.0
+India,3956,2000,17740,Brackish water,Private,9370000.0
+USA,1253,1999,16053,Sea water,Public,13113000.0
+USA,7460,2018,19964,Waste water,Private,17510000.0
+India,7174,2001,18921,Sea water,Public,7825000.0
+USA,36807,1983,18140,Brackish water,Public,15687000.0
+Saudi Arabia,15226,1992,16357,Waste water,Public,9411000.0
+South Africa,2909,2024,21597,Sea water,PPP,12360000.0
+Saudi Arabia,51745,2021,28268,Sea water,Public,21607000.0
+Saudi Arabia,27475,1999,20699,Brackish water,Private,16779000.0
+India,14502,1992,24980,Waste water,Public,6975000.0
+Saudi Arabia,6460,1996,13048,Waste water,Public,8976000.0
+Saudi Arabia,3104,2015,20788,Brackish water,Public,16823000.0
+South Africa,5584,2012,14513,Brackish water,Public,12583000.0
+Saudi Arabia,24070,1980,12615,Waste water,Public,7659000.0
+South Africa,53347,1994,16303,Sea water,Public,11306000.0
+South Africa,37920,1992,25959,Sea water,Private,11770000.0
+USA,4969,1996,24750,Waste water,Public,13075000.0
+USA,2644,2003,21215,Waste water,Private,14297000.0
+USA,9329,1987,12336,Waste water,Public,9796000.0
+USA,1382,2006,19018,Brackish water,Private,19072000.0
+USA,11194,2024,21508,Sea water,Private,21744000.0
+India,6991,2002,20877,Brackish water,Public,9767000.0
+USA,5084,1987,10781,Sea water,Public,10287000.0
+Germany,1644,1987,15548,Sea water,Private,10593000.0
+Brazil,13542,2005,19679,Waste water,PPP,8360000.0
+USA,4756,1992,22681,Sea water,Public,13263000.0
+Brazil,2515,2018,9019,Waste water,Public,8163000.0
+Germany,458,2016,19189,Brackish water,PPP,18053000.0
+USA,7883,2007,20715,Brackish water,Public,19660000.0
+India,47679,2004,24248,Sea water,Private,11614000.0
+India,42670,1995,23464,Sea water,Public,9366000.0
+Brazil,5130,1981,22912,Sea water,Public,6582000.0
+India,4437,1997,16000,Waste water,Private,6582000.0
+Brazil,12949,1996,10459,Waste water,Private,7157000.0
+Germany,2985,2009,18034,Brackish water,Public,17532000.0
+USA,10957,2018,25008,Sea water,Public,20186000.0
+India,17432,1992,26967,Waste water,Private,7650000.0
+Brazil,27637,2011,23552,Sea water,Private,12739000.0
+South Africa,7330,2008,22146,Sea water,Public,11235000.0
+Saudi Arabia,6609,2009,21898,Brackish water,Private,17110000.0
+Saudi Arabia,3367,1997,17219,Waste water,Private,9972000.0
+India,3544,1992,19349,Sea water,Private,7055000.0
+Germany,6460,2022,28345,Sea water,Private,21014000.0
+South Africa,11700,2000,15287,Waste water,Public,8515000.0
+Brazil,20202,2009,28073,Sea water,Private,12538000.0
+Saudi Arabia,3629,2000,18389,Sea water,Private,11794000.0
+India,36050,1996,26627,Brackish water,Public,11395000.0
+India,6178,2019,12965,Waste water,Public,8042000.0
+USA,7931,1998,22929,Brackish water,Public,17883000.0
+South Africa,3838,1994,16316,Waste water,Private,7861000.0
+Saudi Arabia,717,1988,12923,Brackish water,Public,10042000.0
+Brazil,19614,1989,21092,Sea water,Private,8591000.0
+Germany,16930,2023,25047,Waste water,PPP,17615000.0
+Brazil,6116,2010,15775,Brackish water,Private,11894000.0
+Saudi Arabia,8664,2002,12504,Sea water,PPP,10162366.0
+USA,13574,2009,19540,Brackish water,PPP,19537000.0
+South Africa,1698,2012,19562,Sea water,Public,10970000.0
+USA,4774,1988,22741,Sea water,Private,13072000.0
+Germany,17930,1980,24747,Sea water,Public,11792690.0
+South Africa,2311,2023,19702,Brackish water,PPP,14234000.0
+South Africa,10867,2014,29277,Waste water,Public,12168000.0
+Saudi Arabia,2086,1990,21121,Brackish water,PPP,11223000.0
+India,12918,2013,18267,Waste water,Private,8931000.0
+Saudi Arabia,7819,1995,11942,Sea water,Private,10273000.0
+Germany,1611,1988,18686,Sea water,Public,10721000.0
+Germany,25971,2011,18318,Sea water,Public,17518000.0
+India,3887,1994,24801,Sea water,Private,7859000.0
+India,3603,1991,22312,Sea water,Public,6872000.0
+India,9902,2012,14103,Waste water,PPP,7339000.0
+India,25556,2024,20861,Waste water,Public,10755000.0
+USA,2934,1993,23357,Waste water,Private,12728000.0
+Saudi Arabia,8618,1987,27640,Sea water,Public,10650000.0
+USA,12441,1987,24437,Waste water,Private,12413000.0
+Saudi Arabia,16205,2006,23804,Sea water,Private,14940000.0
+Saudi Arabia,9666,1991,20300,Sea water,Public,10449000.0
+Brazil,5613,1980,21941,Waste water,Public,5752000.0
+Saudi Arabia,3541,2022,26247,Brackish water,Public,19638000.0
+USA,8832,2019,13336,Sea water,Private,18090000.0
+USA,2773,2021,18252,Brackish water,Private,22814000.0
+India,436,1990,16137,Sea water,Private,6370000.0
+India,12538,2018,21895,Waste water,Private,9905000.0
+USA,20008,2022,26151,Brackish water,Public,27108000.0
+USA,762,2010,17015,Waste water,Public,13830000.0
+India,2952,1996,8048,Sea water,Public,5971000.0
+USA,15050,2012,17938,Sea water,Public,17636000.0
+Brazil,63417,2011,24567,Brackish water,PPP,16735000.0
+India,8273,2008,22688,Brackish water,PPP,10355000.0
+USA,3912,2000,22140,Sea water,Public,14782000.0
+USA,6748,2000,18600,Waste water,Private,13603000.0
+South Africa,32044,2019,13604,Waste water,PPP,11480000.0
+Saudi Arabia,4247,2002,22576,Waste water,Public,11036000.0
+Saudi Arabia,3643,1985,15828,Waste water,Public,7635000.0
+Brazil,5000,2001,30920,Waste water,Public,9115000.0
+South Africa,3123,2017,22852,Brackish water,Private,15538000.0
+South Africa,9160,2016,17096,Waste water,PPP,9986000.0
+India,41137,2024,16943,Sea water,Private,13162000.0
+Saudi Arabia,11193,1987,19535,Sea water,Public,9764000.0
+USA,6295,2020,18802,Sea water,Public,18455000.0
+India,6052,2014,25584,Brackish water,Private,12678000.0
+Saudi Arabia,1697,1990,20932,Sea water,PPP,9303000.0
+Saudi Arabia,19596,2003,16341,Waste water,Private,12006000.0
+South Africa,7496,2000,29452,Sea water,Private,11648000.0
+USA,6765,1981,20246,Sea water,Public,10702000.0
+Saudi Arabia,197423,2019,23844,Brackish water,PPP,39806000.0
+USA,10924,1998,16958,Sea water,Private,14774000.0
+Saudi Arabia,3820,2018,21815,Sea water,Public,14792000.0
+USA,5290,2007,21555,Sea water,Private,17140000.0
+USA,25551,1996,10551,Brackish water,Public,16551000.0
+USA,9074,1985,30076,Brackish water,Public,15916000.0
+India,1923,1998,26453,Waste water,Public,7201000.0
+India,20317,2017,18014,Waste water,Public,9304000.0
+Saudi Arabia,4154,2007,14488,Brackish water,Public,14023000.0
+South Africa,52748,1981,21737,Sea water,Public,9507000.0
+Saudi Arabia,23862,2017,20433,Sea water,Private,17198000.0
+Germany,5180,2016,21778,Waste water,Public,15311000.0
+Brazil,29173,1983,20957,Sea water,Public,7753000.0
+Germany,8672,2001,22531,Sea water,Public,14517000.0
+South Africa,19011,2005,27236,Waste water,Private,11710000.0
+USA,13157,2022,22840,Brackish water,Public,24988000.0
+South Africa,3476,2015,14751,Sea water,Public,10738000.0
+USA,4257,1992,26812,Sea water,PPP,13215000.0
+Brazil,22696,2011,28203,Waste water,Private,11751000.0
+Saudi Arabia,5797,1996,35760,Waste water,PPP,11375000.0
+South Africa,5411,2020,14382,Waste water,Public,10325000.0
+USA,3117,2015,21214,Brackish water,Public,21155000.0
+Saudi Arabia,12377,1998,9589,Brackish water,Private,12882000.0
+South Africa,63737,2014,22765,Waste water,Public,15030000.0
+Saudi Arabia,2786,2019,17258,Waste water,Public,12538000.0
+India,8301,2007,29617,Sea water,Public,9804000.0
+India,33263,1980,16126,Waste water,PPP,5363000.0
+Saudi Arabia,7482,2021,11554,Sea water,Public,13547000.0
+India,12738,1997,17643,Sea water,PPP,7141000.0
+Saudi Arabia,2800,2019,10122,Brackish water,PPP,14192000.0
+South Africa,12435,2012,23755,Brackish water,Public,14952000.0
+USA,6720,1991,9674,Waste water,Private,10382000.0
+Germany,21714,1987,20142,Sea water,Private,12927000.0
+South Africa,26565,2003,9610,Brackish water,PPP,11494000.0
+Brazil,107965,1995,18398,Waste water,Public,12242000.0
+Saudi Arabia,14467,1983,28216,Waste water,Private,9782000.0
+India,11223,2017,21803,Sea water,Public,10237000.0
+Germany,9841,2023,15682,Sea water,PPP,16546000.0
+USA,5692,2006,19843,Brackish water,Public,18893000.0
+Saudi Arabia,11367,1988,20090,Sea water,Public,10020000.0
+Saudi Arabia,6030,1995,22363,Waste water,Private,10583000.0
+Saudi Arabia,9589,1991,13165,Waste water,PPP,8059000.0
+USA,30260,2010,22962,Sea water,Private,21142000.0
+South Africa,2961,2003,6478,Sea water,Public,8039000.0
+South Africa,25333,1993,16850,Sea water,Public,9518000.0
+India,30245,2024,17558,Waste water,PPP,10072000.0
+Saudi Arabia,7200,2004,23166,Sea water,Private,13634000.0
+Germany,970,2013,20113,Brackish water,PPP,17720000.0
+Brazil,4412,1982,12972,Brackish water,Public,6955000.0
+India,29643,2003,15075,Brackish water,Public,10638000.0
+USA,7919,2021,20993,Sea water,Private,20462000.0
+South Africa,2983,1988,19604,Sea water,PPP,7422000.0
+Brazil,4891,2005,17104,Waste water,Public,8028000.0
+South Africa,18781,1999,17595,Waste water,PPP,8605000.0
+India,13998,2019,23480,Waste water,Private,10314000.0
+India,6380,1989,17411,Sea water,Public,6331000.0
+Saudi Arabia,5614,1998,19559,Sea water,Public,11220000.0
+South Africa,5476,1982,30849,Brackish water,Public,9910000.0
+Brazil,3221,2003,12881,Sea water,Private,8474000.0
+USA,40756,1984,10740,Waste water,Public,11236000.0
+USA,5870,1982,23917,Brackish water,Public,13667000.0
+Saudi Arabia,27368,2006,16606,Sea water,PPP,13180000.0
+Brazil,37097,1995,18408,Waste water,Public,8699000.0
+South Africa,21989,1994,16094,Waste water,Public,8437000.0
+USA,5262,2014,18700,Sea water,Public,17077000.0
+Saudi Arabia,12133,1991,27992,Brackish water,Private,14767000.0
+Saudi Arabia,7909,2020,24010,Sea water,Private,16840000.0
+South Africa,3282,2023,24311,Sea water,Public,13421000.0
+Brazil,11207,2005,12918,Sea water,Private,9250000.0
+Brazil,2492,2013,14244,Brackish water,Private,11741000.0
+Saudi Arabia,26573,2002,5804,Waste water,Public,10208000.0
+Saudi Arabia,5091,2010,15953,Brackish water,Public,14993000.0
+Germany,9908,1999,24783,Sea water,Public,14635000.0
+USA,10756,1991,22584,Brackish water,Public,16264000.0
+Brazil,6254,2002,18892,Sea water,Private,9334000.0
+Brazil,14569,1983,19888,Waste water,Private,6626000.0
+South Africa,5039,2002,16555,Brackish water,Public,11339000.0
+South Africa,19366,1980,21023,Sea water,Public,7667000.0
+Saudi Arabia,2109,2004,23829,Sea water,Public,12634000.0
+India,9194,1981,11920,Waste water,Private,4885000.0
+South Africa,56326,2009,21498,Sea water,Public,14959000.0
+Brazil,2979,1982,24662,Waste water,Private,6415000.0
+Germany,4114,2000,17924,Sea water,Public,13030000.0
+Saudi Arabia,13546,2004,23503,Sea water,Private,14257000.0
+USA,9697,1999,34073,Brackish water,PPP,19879000.0
+South Africa,11506,2001,19478,Waste water,Public,9134000.0
+India,13216,2000,21966,Waste water,Public,7524000.0
+Germany,15286,2012,16309,Sea water,PPP,15281000.0
+India,24580,2017,20906,Sea water,Public,11002000.0
+India,12207,1994,22301,Sea water,Private,8029000.0
+Saudi Arabia,6366,1994,20974,Brackish water,Public,12985000.0
+USA,15876,2004,14901,Brackish water,Private,19404000.0
+India,54169,2000,21031,Waste water,Public,9396000.0
+Saudi Arabia,7096,2003,27310,Waste water,PPP,11475000.0
+India,3057,1984,22243,Sea water,Private,6374000.0
+Saudi Arabia,24515,1985,24809,Brackish water,Private,13791000.0
+Brazil,7184,2022,18814,Waste water,Private,10791000.0
+Saudi Arabia,922,2023,23749,Waste water,Private,14907000.0
+Saudi Arabia,18909,2002,21396,Sea water,Public,13272000.0
+Brazil,4744,1983,15245,Sea water,PPP,5806000.0
+Saudi Arabia,7401,2006,21592,Brackish water,PPP,14832000.0
+USA,11293,1997,15041,Sea water,Public,13498000.0
+USA,9803,2000,16835,Sea water,PPP,13558000.0
+India,16472,2007,20946,Sea water,Private,9755000.0
+India,5242,2014,21486,Brackish water,Private,11952000.0
+India,13535,2001,14053,Sea water,Public,7643000.0
+Germany,6250,2019,25269,Sea water,Public,18559000.0
+USA,16963,2002,22860,Sea water,Public,16691000.0
+USA,14993,1982,16476,Waste water,Public,9866000.0
+Saudi Arabia,3179,2019,12312,Waste water,Private,12284000.0
+Saudi Arabia,24004,1989,19275,Brackish water,Public,13120000.0
+Saudi Arabia,4741,2004,17770,Brackish water,Public,14201000.0
+Saudi Arabia,18179,1987,20565,Waste water,PPP,8826000.0
+South Africa,11699,1990,18184,Sea water,Public,8440000.0
+Germany,50928,1984,9962,Sea water,Public,12271000.0
+Saudi Arabia,6480,2024,18058,Sea water,Public,15281000.0
+India,5714,2016,18471,Sea water,Public,9324000.0
+Saudi Arabia,7947,2024,23168,Sea water,Private,17403000.0
+India,5983,2017,16509,Waste water,Private,8707000.0
+Brazil,18032,2008,28393,Brackish water,Private,14727000.0
+South Africa,1609,1984,10441,Brackish water,Public,7541000.0
+USA,2825,1988,26555,Waste water,Private,12210000.0
+South Africa,2785,1981,18878,Sea water,Public,6809000.0
+Saudi Arabia,20958,1980,24297,Sea water,Public,9664000.0
+Germany,44829,2019,20399,Brackish water,Public,26367000.0
+Saudi Arabia,7299,2009,25697,Brackish water,Public,17150000.0
+South Africa,6844,1990,18063,Sea water,Public,8149000.0
+Saudi Arabia,8691,2007,14506,Brackish water,Public,14505000.0
+Germany,25896,2023,27102,Brackish water,PPP,25325000.0
+India,3205,1991,19432,Brackish water,Public,7904000.0
+Germany,10284,2018,21107,Brackish water,Public,21418000.0
+USA,21486,2005,26173,Sea water,Public,18578000.0
+USA,13374,1992,14840,Sea water,Private,13304000.0
+USA,9794,1987,22977,Brackish water,Public,15181000.0
+USA,22049,2007,17050,Sea water,PPP,16232000.0
+USA,542,2009,19339,Waste water,PPP,13363000.0
+India,15960,1988,20361,Brackish water,Public,8288000.0
+USA,4212,2018,12498,Sea water,Public,16203000.0
+Germany,1299,2010,16105,Waste water,Public,12785000.0
+Brazil,13510,2000,26755,Brackish water,Private,12627000.0
+Saudi Arabia,32005,2013,24430,Sea water,Public,17113000.0
+India,7062,2010,19686,Waste water,Public,8013000.0
+USA,21012,2004,21215,Waste water,Public,15511000.0
+USA,40630,1991,18528,Brackish water,Private,19510000.0
+USA,30179,1980,26782,Sea water,Public,13092000.0
+USA,41771,2001,18998,Brackish water,Public,21826000.0
+Germany,17019,2019,21159,Waste water,Private,17868000.0
+USA,8737,2016,25730,Sea water,Private,20665000.0
+USA,1632,1980,16113,Sea water,PPP,9035000.0
+USA,6335,1980,27793,Waste water,Public,10383000.0
+Saudi Arabia,3486,2021,12347,Sea water,Private,13997000.0
+Germany,71036,2021,28148,Waste water,Private,26066000.0
+Saudi Arabia,6796,2000,18136,Brackish water,Public,13700000.0
+Saudi Arabia,9165,1994,18786,Brackish water,Private,13523000.0
+India,14065,1996,10549,Sea water,Public,6780000.0
+USA,8464,2001,17726,Waste water,PPP,12415000.0
+India,44136,2017,14800,Sea water,Public,11487000.0
+India,4347,2014,16961,Brackish water,Private,11150000.0
+USA,9843,2024,19313,Brackish water,Public,23865000.0
+Brazil,3856,1995,24788,Waste water,PPP,7270000.0
+South Africa,2164,1987,21038,Waste water,Public,7030000.0
+USA,4395,1996,21538,Brackish water,PPP,15768000.0
+Germany,7808,1996,14522,Sea water,PPP,11381000.0
+Brazil,5274,2005,15596,Waste water,Public,7876000.0
+India,4054,1992,28993,Brackish water,PPP,8680000.0
+USA,1985,1996,16323,Sea water,PPP,11996000.0
+Germany,7456,2017,28281,Sea water,Public,18979000.0
+Saudi Arabia,1799,1996,18784,Waste water,Public,9437000.0
+Saudi Arabia,17327,1993,20011,Sea water,Private,11896000.0
+India,8799,2024,25351,Brackish water,Public,13674000.0
+Saudi Arabia,1886,1985,26359,Brackish water,Public,11632000.0
+Saudi Arabia,5947,2014,19445,Sea water,Public,13870000.0
+India,3819,1993,18058,Brackish water,Public,8040000.0
+USA,11149,1987,19720,Sea water,Public,12232000.0
+Germany,30959,1994,21689,Brackish water,Public,17807000.0
+India,1242,2006,24456,Brackish water,PPP,9860000.0
+Brazil,9090,1992,20021,Brackish water,Private,9986000.0
+Saudi Arabia,6904,2010,23094,Waste water,Public,12566000.0
+Saudi Arabia,15856,2014,28191,Waste water,Private,15625000.0
+USA,10028,1985,21906,Waste water,Private,11423000.0
+Saudi Arabia,3820,1984,21558,Sea water,PPP,8569000.0
+Saudi Arabia,5889,2001,12405,Sea water,Public,10579000.0
+Germany,3655,2002,6846,Brackish water,Public,13485000.0
+Germany,23765,2004,21941,Waste water,PPP,14068000.0
+Saudi Arabia,8277,2013,19525,Waste water,PPP,11886000.0
+USA,54240,2005,17426,Waste water,Private,19146000.0
+Germany,7626,1984,21217,Sea water,Private,11345000.0
+Germany,3990,2005,19697,Brackish water,Public,17163000.0
+Germany,1783,1999,25638,Brackish water,Private,17743000.0
+USA,1335,1985,20430,Sea water,Public,11145000.0
+Brazil,1662,1985,16265,Sea water,Public,6310000.0
+Saudi Arabia,10584,1997,24950,Waste water,PPP,10451000.0
+India,13476,1983,18914,Sea water,Public,6095000.0
+India,1667,1996,22632,Sea water,Public,7370000.0
+Saudi Arabia,19831,1993,17612,Sea water,PPP,10550000.0
+USA,4998,1993,16750,Waste water,Public,11190000.0
+Saudi Arabia,9384,1992,20420,Brackish water,PPP,12071000.0
+Saudi Arabia,40628,1986,20064,Brackish water,PPP,13119000.0
+India,19867,2023,22399,Waste water,Private,11026000.0
+Saudi Arabia,6194,1994,18656,Sea water,Public,10470000.0
+USA,3323,1998,10818,Brackish water,Public,14530000.0
+Germany,942,2022,17836,Sea water,Public,16716000.0
+Saudi Arabia,3947,2023,23969,Sea water,Public,16103000.0
+India,6560,2014,18513,Waste water,Public,8250000.0
+Saudi Arabia,3019,1996,18768,Waste water,PPP,9017000.0
+Saudi Arabia,7106,2014,24931,Sea water,Public,15031000.0
+South Africa,8750,1998,16440,Sea water,Private,9631000.0
+India,6471,1999,12285,Brackish water,Public,8246000.0
+Germany,4230,2015,19196,Sea water,Private,16972000.0
+USA,9591,2014,17579,Sea water,PPP,16415000.0
+USA,12606,2011,15168,Sea water,Public,16499000.0
+Germany,2723,2023,19123,Sea water,Public,17436000.0
+USA,33220,2019,22457,Waste water,Private,21403000.0
+USA,7342,2003,19953,Sea water,Private,16124000.0
+Germany,8257,1996,21534,Sea water,Private,13982000.0
+USA,16452,1986,29067,Brackish water,Public,16718000.0
+Brazil,10231,2022,18285,Waste water,Public,10393000.0
+USA,21018,1980,21391,Sea water,PPP,11056000.0
+Saudi Arabia,10798,2014,17453,Sea water,PPP,13218000.0
+Saudi Arabia,4392,2011,15768,Sea water,Public,12552000.0
+South Africa,11631,2015,17075,Waste water,PPP,10037000.0
+USA,2581,1992,17606,Brackish water,Public,14609000.0
+Saudi Arabia,9032,1985,21797,Waste water,Public,8613000.0
+South Africa,7838,1993,31745,Waste water,Public,9229000.0
+Brazil,6580,2016,16419,Waste water,Public,9226000.0
+Brazil,7125,1994,17916,Brackish water,Private,9881000.0
+Germany,1234,1983,19684,Brackish water,Public,11893000.0
+USA,4681,2019,21978,Sea water,Public,18851000.0
+India,8891,1995,21317,Waste water,Private,7091000.0
+South Africa,9507,2007,26420,Sea water,Private,12501000.0
+Saudi Arabia,2899,1995,7868,Sea water,Private,9254000.0
+Saudi Arabia,28730,1983,8065,Brackish water,PPP,9950000.0
+Germany,3407,2024,17520,Sea water,Public,17309000.0
+India,21363,2005,25486,Brackish water,Private,12408000.0
+USA,12421,2007,12171,Brackish water,Private,18955000.0
+Germany,4246,2011,4961,Brackish water,Private,15536000.0
+Saudi Arabia,47825,2024,22855,Waste water,Public,18665000.0
+Saudi Arabia,2456,1981,21218,Sea water,Public,8424000.0
+Germany,20315,2010,14548,Brackish water,PPP,18073000.0
+USA,22039,1982,15072,Brackish water,Public,13532000.0
+India,4143,1987,15151,Brackish water,PPP,6621000.0
+Germany,32612,2003,20552,Waste water,Private,15978000.0
+Saudi Arabia,6310,1994,16868,Sea water,Private,10756000.0
+USA,10815,2022,22470,Brackish water,PPP,23214000.0
+Saudi Arabia,10512,2010,5726,Sea water,Private,11709000.0
+Saudi Arabia,7084,1988,15715,Waste water,Public,8243000.0
+USA,18229,2018,14369,Sea water,Private,19400000.0
+Germany,17916,2024,18718,Waste water,PPP,16560000.0
+USA,1410,1981,17309,Sea water,Public,9886000.0
+USA,29861,1987,23989,Sea water,Public,14445000.0
+South Africa,1536,1986,10703,Brackish water,Public,7849000.0
+Germany,22755,2023,20227,Waste water,PPP,17212000.0
+Brazil,25001,2018,22791,Brackish water,Public,15402000.0
+Germany,2721,2021,29283,Waste water,Private,18493000.0
+India,5373,1995,17591,Brackish water,Public,8332000.0
+India,2681,2014,21622,Brackish water,Public,11179000.0
+Saudi Arabia,6535,2009,10980,Sea water,Private,12181000.0
+Saudi Arabia,5954,1989,8040,Waste water,Public,7387000.0
+Saudi Arabia,17670,2017,24223,Sea water,Private,17343000.0
+Germany,30040,1997,19972,Waste water,Private,14350000.0
+South Africa,32718,1984,25892,Waste water,PPP,8070000.0
+Brazil,4618,2008,13132,Waste water,Public,7856000.0
+South Africa,6573,2018,22599,Brackish water,PPP,14424000.0
+USA,1505,2013,29344,Brackish water,Private,23933000.0
+India,3619,2022,22098,Waste water,PPP,8812000.0
+South Africa,21265,2024,21382,Sea water,Public,14648000.0
+USA,40765,2002,20042,Brackish water,Private,23438000.0
+USA,2358,1984,12145,Sea water,PPP,9233000.0
+India,4480,2009,26777,Brackish water,PPP,10787000.0
+Saudi Arabia,7891,1985,16945,Sea water,Public,8890000.0
+Brazil,10723,2023,22522,Sea water,Public,12386000.0
+USA,3606,1983,12184,Sea water,Public,9665000.0
+India,12382,2008,14102,Brackish water,Public,10001000.0
+Germany,5045,2002,27175,Brackish water,Public,18316000.0
+USA,7986,1985,18263,Sea water,Public,11326000.0
+USA,13992,2011,27266,Brackish water,PPP,22114000.0
+Brazil,8155,2021,19608,Sea water,Public,11466000.0
+India,5237,1997,10790,Brackish water,Private,8157000.0
+Saudi Arabia,7261,1994,24460,Brackish water,Public,13674000.0
+Saudi Arabia,7417,2019,17050,Brackish water,Public,17230000.0
+Brazil,5597,2011,23493,Waste water,Public,9510000.0
+Saudi Arabia,6255,1988,20126,Sea water,Public,9687000.0
+Brazil,40080,2016,12284,Waste water,Private,11469000.0
+Saudi Arabia,14198,1989,20821,Brackish water,PPP,11916000.0
+Saudi Arabia,6030,1999,30981,Brackish water,Public,15857000.0
+Saudi Arabia,16267,1985,22464,Brackish water,Public,12128000.0
+Germany,5803,1982,19712,Sea water,Public,10044000.0
+India,26189,2021,25376,Brackish water,PPP,13912000.0
+Saudi Arabia,11726,1990,21053,Brackish water,Private,13291000.0
+Germany,7278,2022,21047,Sea water,Private,19239000.0
+Brazil,12679,1996,14541,Sea water,Private,8421000.0
+Saudi Arabia,1684,2011,21169,Sea water,PPP,12599000.0
+Saudi Arabia,2626,1983,25177,Waste water,Public,8319000.0
+South Africa,2455,1983,15819,Brackish water,Public,8102000.0
+India,9348,1996,27122,Sea water,PPP,7774000.0
+USA,45821,2020,19541,Sea water,Private,24962000.0
+South Africa,75455,1998,15561,Brackish water,Private,16857000.0
+India,15337,1984,24988,Waste water,Private,6427000.0
+Germany,13371,2011,18566,Sea water,Public,16214000.0
+USA,1338,2001,23797,Sea water,Private,15861000.0
+India,4709,1985,18541,Waste water,Private,5615000.0
+India,3685,2014,19700,Sea water,Public,9135000.0
+Saudi Arabia,4355,2001,22467,Sea water,Private,12719000.0
+Brazil,6848,1980,21454,Waste water,PPP,5459000.0
+India,5053,1999,10022,Brackish water,Public,7872000.0
+USA,1119,2001,14393,Sea water,Public,13143000.0
+Germany,17118,1990,24647,Sea water,Public,13280000.0
+Germany,2771,1992,19339,Sea water,Private,12278000.0
+India,10293,2021,17381,Sea water,Public,10032000.0
+USA,64478,1982,13207,Waste water,Private,13401000.0
+Saudi Arabia,3231,1988,14601,Brackish water,PPP,9955000.0
+India,645,1991,9891,Waste water,Public,5025000.0
+Brazil,6087,2002,19493,Waste water,PPP,7615000.0
+Germany,24366,1993,17007,Brackish water,PPP,15087000.0
+Brazil,57431,2012,15167,Sea water,Public,13164000.0
+USA,2369,1997,19659,Brackish water,Public,16233000.0
+Brazil,13315,2020,21819,Waste water,PPP,10298000.0
+USA,5088,1988,30465,Waste water,PPP,11699000.0
+Saudi Arabia,7288,2002,12440,Sea water,Public,10848000.0
+India,114044,1989,25796,Brackish water,Public,14293000.0
+USA,1802,1998,24865,Brackish water,Public,17620000.0
+Germany,10443,1984,16104,Waste water,PPP,8735000.0
+India,12935,2002,21016,Sea water,Public,8480000.0
+India,23999,2009,17711,Brackish water,Private,12090000.0
+India,8937,2004,20928,Waste water,PPP,7231000.0
+India,11026,2007,27545,Brackish water,Public,11665000.0
+Saudi Arabia,5477,2013,23028,Brackish water,Private,18111000.0
+Germany,10605,2024,22543,Sea water,Public,19464000.0
+Germany,5749,2004,17848,Sea water,PPP,13188000.0
+USA,15086,1989,12579,Sea water,Public,11791000.0
+South Africa,5599,1993,18957,Waste water,Private,8137000.0
+Saudi Arabia,11814,2021,26033,Sea water,Private,17896000.0
+Saudi Arabia,7869,2009,12364,Brackish water,Public,14330000.0
+Saudi Arabia,24985,2020,14724,Brackish water,Public,19014000.0
+South Africa,7697,2004,20631,Sea water,Public,10472000.0
+USA,1376,1993,15076,Brackish water,Public,14170000.0
+Saudi Arabia,28621,2014,16037,Waste water,PPP,13120000.0
+Saudi Arabia,3275,2013,17882,Waste water,PPP,11217000.0
+India,4214,1989,13171,Brackish water,Public,7025000.0
+USA,4466,2014,15129,Brackish water,Private,20370000.0
+Brazil,32030,1990,23517,Sea water,Private,9669000.0
+South Africa,957,1990,13463,Waste water,PPP,6215000.0
+Saudi Arabia,186791,2000,12010,Sea water,Public,24803000.0
+India,23296,2000,16849,Waste water,Public,7517000.0
+South Africa,10129,2001,23659,Sea water,Public,10620000.0
+India,7670,2024,19015,Waste water,Private,9861000.0
+USA,10781,1986,17677,Waste water,Public,10495000.0
+Saudi Arabia,13644,1996,20221,Waste water,Public,10434000.0
+India,15447,1981,11271,Sea water,Public,5348000.0
+Saudi Arabia,14123,1991,22473,Brackish water,Private,13973000.0
+India,8862,2021,21917,Brackish water,Public,12673000.0
+South Africa,6651,1997,17953,Waste water,Public,8166000.0
+South Africa,6965,1990,25029,Sea water,Public,8950000.0
+Saudi Arabia,6668,1995,14362,Waste water,Public,9029000.0
+USA,25179,1997,25639,Waste water,Private,15961000.0
+South Africa,14669,2014,20772,Sea water,Public,12466000.0
+Brazil,428,2005,18317,Waste water,Public,7910000.0
+USA,15613,1995,19900,Brackish water,Private,18183000.0
+South Africa,9845,1985,19463,Brackish water,Public,9328000.0
+Brazil,7952,2023,26101,Sea water,Public,12735000.0
+Saudi Arabia,5494,2022,14616,Brackish water,PPP,16064000.0
+Saudi Arabia,24937,2021,16187,Waste water,Public,14687000.0
+Saudi Arabia,20900,1991,25181,Brackish water,Public,14291000.0
+USA,3741,1992,17022,Brackish water,Public,14608000.0
+Germany,12173,1983,24502,Brackish water,Public,13634000.0
+Brazil,3066,2018,28497,Waste water,Private,11409000.0
+USA,2039,1981,17991,Sea water,Private,10559000.0
+Germany,4329,2005,23406,Waste water,Private,14283000.0
+Saudi Arabia,19194,2006,14231,Brackish water,Public,15351000.0
+Saudi Arabia,21017,2006,23773,Sea water,Public,14604000.0
+South Africa,13535,1994,20997,Sea water,PPP,8958000.0
+Germany,16732,1987,22365,Brackish water,PPP,13915000.0
+Germany,13577,1986,16772,Waste water,Public,9862000.0
+India,4266,2019,11694,Sea water,Public,8635000.0
+Saudi Arabia,12480,1991,22516,Waste water,Public,9858000.0
+Germany,18041,1992,9682,Sea water,Public,11330000.0
+Saudi Arabia,17228,2022,18413,Brackish water,Public,19389000.0
+USA,26606,1996,24705,Waste water,Public,14899000.0
+USA,16453,1996,20959,Waste water,Private,14111000.0
+Saudi Arabia,11515,2015,29741,Sea water,Private,17442000.0
+Saudi Arabia,23627,2000,25125,Brackish water,Public,16650000.0
+South Africa,7891,1987,16730,Sea water,Public,7654000.0
+Saudi Arabia,3354,1984,20136,Brackish water,PPP,10052000.0
+Saudi Arabia,6883,2005,19763,Waste water,Public,11266000.0
+India,3847,1995,12089,Waste water,Private,5992000.0
+USA,4125,2015,15298,Sea water,Public,16318000.0
+India,7012,2007,17196,Waste water,Private,7839000.0
+USA,3668,2008,9818,Brackish water,Public,16446000.0
+South Africa,5955,1991,20237,Sea water,Public,8486000.0
+USA,1219,2016,18754,Brackish water,Public,20401000.0
+Saudi Arabia,10029,2009,11635,Brackish water,Public,14406000.0
+USA,8112,2002,22021,Brackish water,Public,18733000.0
+South Africa,3579,1995,23579,Brackish water,Private,11757000.0
+Saudi Arabia,15665,1993,21135,Brackish water,Public,13611000.0
+Saudi Arabia,20693,1989,18379,Sea water,Public,10590000.0
+USA,1623,1986,22957,Waste water,Private,11154000.0
+India,3779,2024,23401,Brackish water,Private,13588000.0
+Germany,3755,2016,21537,Sea water,PPP,15910000.0
+Brazil,3165,2008,15876,Waste water,Private,8524000.0
+Germany,18573,1982,21383,Waste water,Public,10042000.0
+USA,6675,1994,25977,Waste water,Private,13706000.0
+USA,6219,2015,17016,Sea water,PPP,16094000.0
+Saudi Arabia,1092,1998,30489,Sea water,PPP,11902000.0
+Saudi Arabia,15297,1992,17371,Brackish water,Public,12726000.0
+USA,2346,2021,20162,Sea water,Public,18501000.0
+India,8603,2000,16637,Waste water,Public,6793000.0
+Saudi Arabia,10693,2016,21116,Sea water,Private,15782000.0
+Saudi Arabia,31591,2006,11288,Sea water,Private,14060000.0
+Saudi Arabia,2188,2008,17269,Brackish water,Private,15357000.0
+Saudi Arabia,395,1999,14539,Sea water,Public,10184000.0
+Saudi Arabia,9738,2004,20676,Waste water,Private,12075000.0
+USA,49045,1985,24972,Brackish water,PPP,17730000.0
+USA,27971,2015,23230,Sea water,Public,21128000.0
+Brazil,9993,1981,8141,Sea water,Private,5796000.0
+South Africa,4956,2001,30210,Brackish water,Public,13386000.0
+Saudi Arabia,18162,2011,21476,Sea water,PPP,14094000.0
+Germany,3060,1995,16117,Brackish water,PPP,13297000.0
+India,13047,1997,20785,Brackish water,Private,9945000.0
+Saudi Arabia,13433,1984,20880,Waste water,Private,9051000.0
+USA,23393,2015,16665,Waste water,PPP,16186000.0
+USA,127983,2009,20989,Waste water,Public,27352000.0
+India,11997,2024,16962,Waste water,Public,9382000.0
+India,4870,1998,17978,Sea water,Private,7661000.0
+USA,7898,2002,16568,Sea water,Public,14470000.0
+Germany,1381,2013,12836,Sea water,Public,14025000.0
+Germany,4045,1992,20729,Waste water,PPP,10230000.0
+India,5381,2022,22926,Waste water,Private,10018000.0
+USA,4797,2008,22574,Waste water,Public,15000000.0
+USA,9436,2015,24099,Sea water,Public,19093000.0
+India,3560,2001,21621,Waste water,Public,7129000.0
+USA,24860,2015,17336,Brackish water,Public,23188000.0
+India,8104,1988,24198,Sea water,Public,6899000.0
+Germany,8028,2018,13212,Brackish water,Private,19877000.0
+USA,5837,1998,15496,Sea water,Public,13259000.0
+Germany,9463,2017,15178,Brackish water,Public,19414000.0
+India,18492,1985,25400,Sea water,Public,7076000.0
+Brazil,3404,1994,24713,Brackish water,PPP,9507000.0
+Brazil,4195,1999,22436,Brackish water,Public,10553000.0
+Saudi Arabia,5980,1988,25359,Waste water,Public,9325000.0
+India,2109,2011,15603,Brackish water,Public,9848000.0
+Germany,3571,1983,21742,Brackish water,Private,13094000.0
+Germany,5033,1997,19374,Waste water,Private,12138000.0
+Brazil,19426,1984,24234,Waste water,Public,6976000.0
+USA,10536,1999,19423,Sea water,Public,14688000.0
+USA,9833,2002,18075,Brackish water,Public,17973000.0
+Germany,18975,1990,22704,Sea water,Private,13808000.0
+USA,7063,2016,24380,Sea water,Private,20101000.0
+USA,11973,2001,16658,Brackish water,Public,17640000.0
+Saudi Arabia,7308,1983,19694,Waste water,Public,7977000.0
+Saudi Arabia,10565,2008,14707,Sea water,Public,12447000.0
+Brazil,4524,2023,7509,Waste water,Public,8555000.0
+Brazil,707,2013,21002,Waste water,Private,9594000.0
+Germany,7084,1992,23044,Waste water,Public,11368000.0
+Germany,33615,2021,21310,Sea water,Public,21330000.0
+Saudi Arabia,20459,1988,10252,Waste water,Public,8388000.0
+Saudi Arabia,21277,2021,18245,Sea water,PPP,15505000.0
+Germany,27892,2010,8908,Brackish water,PPP,17625000.0
+India,8854,1986,26848,Sea water,Public,6918000.0
+Saudi Arabia,9870,1983,14569,Sea water,Public,8399000.0
+Saudi Arabia,4369,1998,26277,Waste water,Public,10948000.0
+Saudi Arabia,5907,2021,24729,Brackish water,Public,19341000.0
+Germany,14999,2009,15497,Sea water,Public,15339000.0
+South Africa,27007,2010,14336,Sea water,Private,12454000.0
+India,7048,2014,21751,Brackish water,Private,12140000.0
+USA,5165,2000,15778,Sea water,PPP,12920000.0
+Brazil,8107,2010,20512,Waste water,Public,9181000.0
+Saudi Arabia,14782,1998,17585,Sea water,PPP,11012000.0
+Brazil,1912,2010,11094,Sea water,Private,8935000.0
+India,815,2011,8847,Sea water,Public,7295000.0
+Saudi Arabia,4672,1981,21133,Brackish water,Public,10252000.0
+USA,2390,1989,17192,Sea water,Public,11499000.0
+Germany,4874,1981,17234,Sea water,Public,9452000.0
+Saudi Arabia,6989,1981,23479,Waste water,Public,8055000.0
+India,5149,2003,25867,Brackish water,Private,10994000.0
+Germany,34629,1996,18637,Sea water,Public,15090000.0
+USA,11234,2011,18297,Brackish water,PPP,19398000.0
+Brazil,10943,1995,22500,Waste water,Public,7800000.0
+South Africa,15096,1995,13215,Sea water,PPP,8279000.0
+Saudi Arabia,2594,2018,21115,Sea water,Public,14529000.0
+USA,22905,2010,22759,Waste water,Private,18190000.0
+Germany,7511,2022,23401,Brackish water,Public,22658000.0
+USA,15842,2003,10316,Brackish water,Public,17036000.0
+South Africa,2774,1980,16193,Sea water,PPP,6082000.0
+USA,1713,1990,15608,Sea water,Public,11365000.0
+Saudi Arabia,18359,2000,20499,Brackish water,Private,16063000.0
+Germany,11806,1983,22403,Sea water,Private,11621000.0
+Saudi Arabia,3287,1986,27483,Brackish water,Public,12123000.0
+India,3395,2005,17525,Brackish water,Public,9470000.0
+Brazil,24970,1991,17512,Sea water,Private,8784000.0
+Germany,2466,2010,25748,Waste water,Public,14743000.0
+USA,41884,1996,21482,Waste water,Private,16470000.0
+USA,3292,2012,26338,Waste water,PPP,15539000.0
+South Africa,15342,1990,21443,Sea water,Public,9019000.0
+Brazil,5833,2007,14214,Sea water,Public,8839000.0
+Saudi Arabia,14811,2011,13334,Brackish water,Private,16502000.0
+India,4702,1980,12242,Sea water,Public,4909000.0
+India,6885,2007,23310,Waste water,Public,8085000.0
+USA,8441,2021,25942,Sea water,Public,20790000.0
+South Africa,2974,1986,29246,Brackish water,Private,10851000.0
+Saudi Arabia,16997,1981,24215,Sea water,Public,9618000.0
+Saudi Arabia,4850,2021,25814,Brackish water,Public,19480000.0
+Saudi Arabia,6447,2003,17099,Sea water,Private,12321000.0
+USA,2997,1983,14217,Brackish water,Public,11912000.0
+USA,624,2023,24250,Sea water,Public,19763000.0
+India,6694,1998,22088,Waste water,PPP,6648000.0
+USA,90455,2005,20537,Sea water,Private,26047000.0
+India,17758,1990,21936,Waste water,PPP,6284000.0
+Germany,7948,2019,21615,Waste water,Public,16105000.0
+Saudi Arabia,6229,2022,26419,Sea water,Private,17561000.0
+Germany,8287,1990,26474,Waste water,Public,11580000.0
+Saudi Arabia,14004,2024,22721,Sea water,Public,17086000.0
+India,2487,1982,24229,Waste water,Public,5369000.0
+Germany,24694,1991,22570,Brackish water,Public,16534000.0
+Saudi Arabia,16570,1982,17694,Sea water,PPP,8534000.0
+Saudi Arabia,16617,2021,23782,Sea water,Public,17032000.0
+India,12562,2006,13027,Sea water,Private,8428000.0
+South Africa,8263,1981,25269,Waste water,Private,7289000.0
+India,15880,1995,14027,Sea water,Private,7485000.0
+Germany,14644,1981,21429,Brackish water,Public,12820000.0
+USA,5687,2009,15774,Brackish water,Private,19515000.0
+Germany,4566,1999,22766,Waste water,Public,12397000.0
+Saudi Arabia,8971,2017,19830,Sea water,Public,14741000.0
+USA,38140,2007,12026,Brackish water,PPP,20232000.0
+Saudi Arabia,2346,2004,22103,Brackish water,Public,14836000.0
+Saudi Arabia,1867,2011,17110,Waste water,Public,11310000.0
+Germany,9554,1989,24405,Sea water,PPP,11773000.0
+India,8526,2021,20006,Sea water,Public,10273000.0
+USA,9636,2019,21977,Sea water,Private,20504000.0
+USA,10341,2012,15212,Waste water,Public,14804000.0
+India,6482,1992,17053,Sea water,Public,6625000.0
+Saudi Arabia,35949,2020,17706,Brackish water,Public,21098000.0
+India,1634,2021,24283,Sea water,Public,10388000.0
+Saudi Arabia,3538,2016,28386,Waste water,Public,14145000.0
+Germany,7308,1995,15974,Waste water,Private,11405000.0
+Brazil,1566,2024,25384,Brackish water,Private,15465000.0
+India,6796,2001,9151,Sea water,PPP,6395000.0
+India,42679,1999,14029,Sea water,Public,8953000.0
+Germany,8274,2022,15206,Sea water,Private,17863000.0
+Saudi Arabia,10205,2006,13237,Sea water,Private,12465000.0
+Saudi Arabia,2298,2020,12082,Brackish water,PPP,14751000.0
+USA,4374,1995,22064,Brackish water,Public,16506000.0
+South Africa,5568,2013,18929,Waste water,Private,10714000.0
+USA,5897,2011,21897,Sea water,PPP,16369000.0
+South Africa,29191,2005,23452,Brackish water,Public,15056000.0
+Saudi Arabia,14153,2004,21328,Brackish water,PPP,15039000.0
+USA,2666,1981,23288,Brackish water,Public,13015000.0
+Saudi Arabia,10368,1991,19652,Sea water,Private,10956000.0
+Brazil,13335,2019,14065,Brackish water,PPP,12238000.0
+India,25340,1988,25289,Brackish water,Private,9795000.0
+Brazil,39361,1991,17054,Waste water,Public,8143000.0
+India,2936,2005,15322,Waste water,Public,6853000.0
+India,3601,1988,19110,Sea water,PPP,5922000.0
+Brazil,2304,1989,15435,Sea water,Public,6718000.0
+Germany,6412,2011,17912,Brackish water,Public,18388000.0
+Saudi Arabia,12917,2013,21720,Brackish water,Private,18688000.0
+Germany,21749,1999,21741,Sea water,Public,15163000.0
+South Africa,7510,2018,15510,Waste water,Public,10423000.0
+South Africa,5884,1981,17561,Waste water,Public,6149000.0
+USA,9431,1980,25371,Waste water,Public,10271000.0
+India,3515,2015,22482,Sea water,Private,10097000.0
+South Africa,65482,2003,30375,Waste water,Private,14863000.0
+USA,1623,2006,25900,Waste water,Private,15741000.0
+Saudi Arabia,9747,1981,25721,Brackish water,PPP,10654000.0
+South Africa,61304,2010,13060,Brackish water,PPP,16193000.0
+USA,8158,1993,23819,Waste water,Private,13250000.0
+India,6700,1981,19734,Brackish water,Public,6799000.0
+Germany,5667,2008,17245,Sea water,Private,15305000.0
+South Africa,6765,1994,20840,Brackish water,Public,10831000.0
+South Africa,31979,1991,24726,Brackish water,Private,13281000.0
+South Africa,887,2016,22504,Sea water,Private,12547000.0
+Saudi Arabia,37550,2007,15607,Waste water,Public,13333000.0
+Brazil,1950,1999,23712,Brackish water,PPP,10018000.0
+Brazil,6206,2018,16812,Brackish water,Public,12625000.0
+Germany,5275,2003,21083,Sea water,Private,15068000.0
+Brazil,14596,2000,18483,Brackish water,Public,10885000.0
+USA,1639,1989,18905,Sea water,PPP,11107000.0
+Saudi Arabia,12863,1993,23831,Sea water,Public,11529000.0
+Germany,61347,2016,14799,Brackish water,Public,26208000.0
+USA,2073,1997,29725,Brackish water,Public,18506000.0
+USA,9795,2003,10894,Brackish water,Public,16426000.0
+India,4179,1993,17011,Sea water,Public,6617000.0
+Germany,12405,2013,21851,Brackish water,Private,21768000.0
+India,8259,1991,22921,Sea water,Public,7144000.0
+USA,4266,2001,19497,Waste water,Public,13045000.0
+Germany,13198,1985,19713,Brackish water,Public,13397000.0
+Saudi Arabia,49234,2015,22052,Brackish water,PPP,21298000.0
+India,6694,2024,18844,Sea water,Private,10858000.0
+Germany,16643,2015,26965,Sea water,Private,20298000.0
+India,2223,2001,24196,Waste water,Private,7699000.0
+Brazil,3113,1993,24364,Sea water,Public,8179000.0
+India,12996,1995,15169,Brackish water,Public,8497000.0
+Germany,35743,2015,19603,Brackish water,Public,23734000.0
+USA,11563,2004,18497,Sea water,PPP,14841000.0
+Brazil,5925,2011,14971,Waste water,PPP,8023000.0
+USA,8097,2012,21800,Brackish water,Public,21271000.0
+Brazil,2320,2024,17311,Sea water,Public,11006000.0
+Saudi Arabia,14831,2015,23277,Sea water,Public,15638000.0
+South Africa,19581,1999,14649,Sea water,Public,9759000.0
+India,5155,1997,28595,Waste water,Private,7832000.0
+South Africa,5064,2017,15518,Brackish water,Public,13498000.0
+Saudi Arabia,10571,1982,21096,Sea water,PPP,8579000.0
+India,5235,2002,23959,Sea water,Public,8381000.0
+Saudi Arabia,7584,2011,17146,Brackish water,PPP,14894000.0
+Saudi Arabia,66152,2024,24262,Brackish water,Private,29059000.0
+India,6329,1995,13854,Brackish water,Private,8364000.0
+Brazil,5662,1984,27260,Sea water,Private,7785000.0
+South Africa,4240,1983,20070,Sea water,Private,7652000.0
+India,17054,2000,17017,Brackish water,Private,10153000.0
+Saudi Arabia,6759,2019,18504,Waste water,Private,13819000.0
+Saudi Arabia,4232,1993,24044,Sea water,Private,11515000.0
+India,30372,2018,17077,Brackish water,PPP,12509000.0
+Germany,33510,2010,16253,Brackish water,Private,22313000.0
+USA,4445,1993,18892,Brackish water,Private,16129000.0
+Saudi Arabia,1253,1985,14115,Sea water,PPP,7691000.0
+Germany,22192,1991,29102,Waste water,Public,13172000.0
+Germany,4086,1995,17168,Brackish water,Public,14360000.0
+Germany,17865,1996,24158,Brackish water,Public,17505000.0
+USA,1129,2024,21047,Sea water,Private,20194000.0
+USA,19783,2002,15077,Sea water,PPP,14574000.0
+South Africa,2413,1993,19970,Sea water,Public,8520000.0
+Saudi Arabia,16827,1986,23920,Waste water,Private,9959000.0
+Saudi Arabia,8219,2011,19058,Sea water,Private,14224000.0
+India,3121,1994,25965,Brackish water,Public,9050000.0
+Germany,5393,2023,25107,Sea water,Private,20260000.0
+South Africa,16095,1996,24594,Brackish water,PPP,11781000.0
+India,9008,2020,17701,Brackish water,Public,11853000.0
+USA,14536,2023,14600,Sea water,Private,20051000.0
+Saudi Arabia,58480,2013,16932,Sea water,Private,19157000.0
+Brazil,1695,1984,20981,Sea water,Public,6633000.0
+South Africa,40831,2024,22728,Brackish water,Public,19963000.0
+Saudi Arabia,8994,2006,9142,Brackish water,PPP,12536000.0
+India,3298,2002,19959,Sea water,Public,7837000.0
+USA,2142,2019,20790,Brackish water,Public,21873000.0
+South Africa,6706,1993,18612,Sea water,Public,8614000.0
+Germany,20366,1994,26456,Sea water,Private,15526000.0
+South Africa,7132,2022,22108,Sea water,Private,13924000.0
+India,36722,2012,26550,Waste water,Private,11207000.0
+India,1898,2010,18920,Sea water,Public,8496000.0
+Saudi Arabia,8005,2014,24687,Sea water,PPP,14277000.0
+Germany,2316,1996,28175,Sea water,Public,13928000.0
+USA,11656,2007,26558,Sea water,Public,18080000.0
+Germany,19670,1998,14539,Brackish water,Public,16143000.0
+USA,5320,2002,18731,Sea water,Public,14649000.0
+India,599,2011,18274,Sea water,PPP,7998000.0
+Saudi Arabia,9886,2019,22446,Brackish water,PPP,17853000.0
+USA,12540,1992,23431,Sea water,Public,14083000.0
+South Africa,12140,1999,15805,Waste water,PPP,8034000.0
+Brazil,27883,2014,20339,Brackish water,Private,15292000.0
+South Africa,2776,1984,9900,Sea water,PPP,5957000.0
+South Africa,15997,1988,27209,Brackish water,Public,11268000.0
+USA,26702,2008,17438,Sea water,Private,18905000.0
+Saudi Arabia,1368,1985,20279,Brackish water,Public,10679000.0
+India,11155,2004,18451,Brackish water,PPP,9466000.0
+India,4894,2010,25730,Sea water,Public,9506000.0
+USA,7468,2001,5812,Brackish water,Private,15220000.0
+Brazil,11472,1981,19916,Waste water,Public,5938000.0
+Germany,4977,2024,19470,Waste water,Public,16193000.0
+Germany,4122,1984,17731,Brackish water,Private,12663000.0
+Saudi Arabia,8384,2006,28631,Brackish water,PPP,16315000.0
+Saudi Arabia,2731,2004,15563,Sea water,Private,11887000.0
+Saudi Arabia,2735,1987,23858,Sea water,PPP,9262000.0
+USA,15984,1980,21781,Brackish water,Public,13641000.0
+Brazil,2568,1999,26307,Sea water,Private,9637000.0
+Germany,15777,2023,16664,Waste water,Public,16599000.0
+USA,12869,2002,16335,Sea water,Public,14932000.0
+Brazil,1442,2011,25480,Sea water,Private,11110000.0
+South Africa,4115,1990,22126,Sea water,Private,8902000.0
+Brazil,26745,2018,12275,Waste water,Private,10784000.0
+Brazil,3037,2003,17303,Brackish water,Private,10852000.0
+India,5092,1990,21931,Brackish water,Private,8580000.0
+Saudi Arabia,12862,2008,24188,Sea water,Public,14337000.0
+USA,17736,2005,16603,Waste water,Public,14519000.0
+Saudi Arabia,6300,1995,5428,Sea water,Private,9138000.0
+Saudi Arabia,4458,2014,22616,Waste water,Public,12901000.0
+Germany,33602,1999,13898,Brackish water,Public,17774000.0
+India,46115,1982,9913,Sea water,Public,6558000.0
+Saudi Arabia,21565,1980,5838,Brackish water,Private,9593000.0
+USA,8824,1980,24069,Brackish water,Public,13420000.0
+Germany,3610,1996,20643,Sea water,Private,13388000.0
+India,3531,1981,18871,Waste water,Private,5188000.0
+USA,13663,2008,26945,Brackish water,Public,22348000.0
+Brazil,12312,1999,23186,Sea water,Private,9854000.0
+Saudi Arabia,32912,1985,28081,Sea water,Private,12479000.0
+Saudi Arabia,15528,1987,13036,Brackish water,Private,11623000.0
+Saudi Arabia,1802,2008,19827,Brackish water,Private,15888000.0
+Brazil,23200,2012,11916,Brackish water,Public,12370000.0
+Germany,2986,1982,18853,Brackish water,Private,12291000.0
+India,5519,2014,18756,Brackish water,Public,10957000.0
+Saudi Arabia,10406,1984,23133,Waste water,PPP,8223000.0
+Germany,59615,2006,20227,Brackish water,PPP,22990000.0
+Brazil,181664,2023,23117,Waste water,Private,24701000.0
+India,14864,1991,23517,Sea water,Public,7506000.0
+India,6746,1999,30774,Sea water,Public,8825000.0
+Brazil,13828,2024,18423,Sea water,Public,12110000.0
+Brazil,19685,1999,15294,Brackish water,Public,10638000.0
+India,5880,1988,21230,Waste water,Public,5885000.0
+Brazil,48786,2018,15988,Sea water,Private,14316000.0
+India,10199,1983,27409,Sea water,Public,6647000.0
+India,13329,1998,18583,Waste water,PPP,6631000.0
+India,15770,2017,17172,Sea water,Public,9926000.0
+India,12352,2006,17643,Brackish water,PPP,9695000.0
+USA,18749,2024,23592,Brackish water,PPP,25268000.0
+Brazil,4370,2022,19211,Waste water,Private,10641000.0
+Brazil,4636,1992,16791,Sea water,Private,7713000.0
+USA,2696,1992,28326,Sea water,Public,14078000.0
+Brazil,12575,2001,15719,Brackish water,Private,11043000.0
+USA,17657,2007,20177,Waste water,Public,15604000.0
+Germany,12807,2024,23261,Brackish water,Public,23903000.0
+India,43238,2001,11843,Sea water,Private,9481000.0
+USA,8057,2022,22401,Brackish water,Public,24048000.0
+Brazil,15815,1998,14724,Waste water,Private,8001000.0
+Brazil,2719,1987,24113,Waste water,Public,6621000.0
+Saudi Arabia,5502,1987,15186,Waste water,Public,7946000.0
+USA,16244,2021,23463,Sea water,Public,21159000.0
+Germany,18941,2005,25529,Sea water,Public,16957000.0
+India,6039,2005,24307,Brackish water,Public,10578000.0
+South Africa,7543,2002,21256,Waste water,Public,9237000.0
+India,1776,2022,18843,Sea water,Public,9751000.0
+Germany,5670,1992,17117,Sea water,PPP,10929000.0
+India,19739,2007,27355,Waste water,Public,9188000.0
+Saudi Arabia,14403,1988,16502,Sea water,Private,10260000.0
+India,13368,1999,14814,Sea water,Public,7499000.0
+USA,8516,1998,23326,Brackish water,PPP,17093000.0
+India,8160,2018,16019,Brackish water,Public,11252000.0
+Saudi Arabia,4186,1991,15249,Waste water,Public,8429000.0
+South Africa,16298,1994,12781,Sea water,Private,9079000.0
+Germany,12344,2010,17585,Brackish water,Public,18835000.0
+India,13253,1993,19586,Brackish water,Private,9219000.0
+South Africa,4788,1990,21215,Brackish water,Public,10070000.0
+USA,940,2005,24756,Brackish water,PPP,18280000.0
+South Africa,24273,2021,22634,Sea water,Public,14657000.0
+India,5019,2006,19045,Sea water,Public,8266000.0
+USA,3419,1990,19009,Sea water,Private,12729000.0
+Germany,16211,2017,22550,Sea water,Public,18665000.0
+India,5475,2013,26362,Brackish water,PPP,11345000.0
+USA,23387,2022,20631,Waste water,Public,19427000.0
+Saudi Arabia,15018,1998,17654,Waste water,Private,11040000.0
+Germany,16051,1985,15035,Waste water,Public,9620000.0
+India,2067,2017,12773,Sea water,PPP,7994000.0
+USA,27226,2021,23331,Brackish water,Private,28483000.0
+Brazil,10522,2007,22889,Sea water,Public,10290000.0
+South Africa,5601,1980,22886,Sea water,Public,7190000.0
+South Africa,9352,2014,19356,Sea water,Public,11816000.0
+India,1371,2019,27034,Brackish water,PPP,11953000.0
+USA,12193,1987,17579,Waste water,Public,10772000.0
+India,2894,1986,24776,Sea water,Public,6488000.0
+USA,2095,1990,19806,Sea water,Public,12116000.0
+USA,1768,2018,16958,Waste water,Public,15313000.0
+Germany,24653,1983,22962,Sea water,Private,12657000.0
+Saudi Arabia,4318,2004,22048,Waste water,PPP,10675000.0
+India,37561,1991,21784,Waste water,Private,7955000.0
+India,4741,2005,20406,Waste water,PPP,7074000.0
+Saudi Arabia,1469,2017,19810,Brackish water,Private,17676000.0
+Germany,2653,1991,31941,Brackish water,Public,16213000.0
+South Africa,27884,2022,25921,Brackish water,Public,18850000.0
+Saudi Arabia,6933,2016,23614,Brackish water,Private,19091000.0
+Saudi Arabia,4683,2003,20558,Brackish water,PPP,13794000.0
+USA,9509,1995,25035,Sea water,PPP,14003000.0
+India,13383,1992,22589,Brackish water,Public,8966000.0
+India,24770,2004,20131,Brackish water,Public,11138000.0
+Germany,34492,1983,18482,Waste water,Public,10877000.0
+USA,5654,1990,19595,Waste water,PPP,10559000.0
+India,2151,2011,4147,Brackish water,PPP,7729000.0
+India,5359,1986,21053,Sea water,Private,6606000.0
+Germany,10512,1990,17557,Waste water,Public,10459000.0
+South Africa,3090,2007,27963,Brackish water,Private,14693000.0
+USA,3111,2020,20096,Waste water,Public,16541000.0
+Saudi Arabia,11427,2002,14055,Waste water,Public,10308000.0
+South Africa,7718,2024,19750,Sea water,Private,13838000.0
+Saudi Arabia,8373,2002,14769,Waste water,Public,10188000.0
+India,3795,2007,22367,Sea water,Public,8692000.0
+Saudi Arabia,6435,2022,21454,Sea water,PPP,14839000.0
+Germany,3215,2005,24789,Brackish water,Private,19252000.0
+South Africa,19735,2004,16045,Sea water,Public,10673000.0
+Saudi Arabia,22816,2008,20170,Waste water,Private,13744000.0
+Brazil,1278,1998,13174,Sea water,Public,7420000.0
+Germany,3198,2012,23507,Sea water,Private,17244000.0
+Germany,1814,2015,22594,Brackish water,Private,20992000.0
+USA,4230,1993,22479,Waste water,Private,12688000.0
+India,7454,1993,20008,Waste water,Private,6689000.0
+Saudi Arabia,1901,2014,22073,Waste water,Public,12587000.0
+Brazil,3223,2009,28021,Brackish water,Public,12909000.0
+Saudi Arabia,2969,2007,18574,Sea water,Public,12299000.0
+South Africa,9969,1996,20693,Sea water,Public,9490000.0
+USA,8684,1982,14569,Sea water,Private,10750000.0
+Brazil,3937,1995,15658,Brackish water,Public,9020000.0
+India,9670,2009,20489,Brackish water,Public,10854000.0
+India,4690,2008,25519,Brackish water,Public,11078000.0
+Brazil,6175,2024,18718,Waste water,PPP,9841000.0
+India,43193,1994,18820,Brackish water,Public,10555000.0
+India,30960,2004,17965,Sea water,Private,9880000.0
+USA,2209,2017,17326,Sea water,Public,16967000.0
+USA,18577,2021,21474,Waste water,Public,18851000.0
+South Africa,18240,2017,12513,Waste water,Public,10657000.0
+India,2570,2002,26404,Waste water,Private,8055000.0
+India,18375,2004,16672,Sea water,Private,8982000.0
+Saudi Arabia,37719,2021,23609,Waste water,PPP,16358000.0
+USA,2637,1986,13650,Sea water,Public,10369000.0
+USA,3237,2001,23344,Sea water,Public,15169000.0
+India,22418,1996,23359,Waste water,PPP,7234000.0
+Saudi Arabia,10630,1997,21921,Sea water,Public,11799000.0
+Germany,14065,2020,15027,Brackish water,Private,21791000.0
+Saudi Arabia,11391,1989,21247,Sea water,Private,10895000.0
+USA,11976,1989,14084,Brackish water,Public,14139000.0
+Saudi Arabia,2150,1986,18736,Waste water,Private,8444000.0
+Germany,23093,2017,25147,Sea water,Public,20063000.0
+India,26097,2006,23983,Brackish water,Public,12065000.0
+Germany,6442,2012,20075,Sea water,Public,15987000.0
+Saudi Arabia,7758,1980,15125,Brackish water,PPP,8943000.0
+USA,1752,2023,23227,Sea water,Public,19641000.0
+USA,13551,2013,20096,Sea water,Private,19141000.0
+Saudi Arabia,14357,1983,8398,Sea water,PPP,7507000.0
+Saudi Arabia,7614,1996,23913,Sea water,Private,12311000.0
+India,24943,1983,19878,Waste water,Private,6285000.0
+Germany,5801,2022,26012,Sea water,Public,19311000.0
+India,14251,2005,14523,Sea water,Public,8168000.0
+Brazil,2922,1983,4116,Brackish water,Public,6044000.0
+India,7914,1980,21395,Sea water,Private,6028000.0
+USA,6806,1986,21457,Waste water,PPP,10187000.0
+Saudi Arabia,10150,2009,11546,Waste water,PPP,10231000.0
+USA,5599,1988,15107,Brackish water,PPP,12761000.0
+Germany,7104,2014,33776,Waste water,PPP,16637000.0
+South Africa,18509,1987,18471,Brackish water,Public,10101000.0
+USA,5235,2003,23654,Sea water,Private,16703000.0
+Saudi Arabia,1625,1998,16746,Brackish water,PPP,11908000.0
+India,46610,2015,9548,Brackish water,Public,12846000.0
+India,32255,2022,19148,Brackish water,PPP,13557000.0
+Saudi Arabia,2225,2006,18671,Waste water,Public,10883000.0
+USA,16150,2011,18000,Brackish water,Private,22183000.0
+Germany,4900,1993,19426,Waste water,Private,11411000.0
+Saudi Arabia,10545,1997,21321,Waste water,PPP,9976000.0
+USA,10875,2007,19249,Brackish water,Public,19668000.0
+Saudi Arabia,6409,2008,13679,Brackish water,Private,15025000.0
+USA,3700,1995,22430,Sea water,Private,14485000.0
+USA,4062,2014,10253,Waste water,Public,13420000.0
+Saudi Arabia,3241,2010,9748,Brackish water,Private,14139000.0
+USA,3526,1983,23695,Sea water,Private,11998000.0
+Saudi Arabia,7576,2016,22535,Sea water,Private,15753000.0
+India,3960,1996,19713,Brackish water,Public,8631000.0
+Brazil,16027,2018,13022,Sea water,Public,10689000.0
+Germany,35855,2005,16460,Sea water,Private,17721000.0
+USA,4536,2018,18686,Brackish water,Public,21354000.0
+USA,10294,2020,12020,Sea water,Public,17228000.0
+India,13355,1983,16304,Brackish water,PPP,6684000.0
+India,12990,2009,23261,Sea water,Private,10081000.0
+USA,8742,2009,27136,Sea water,Private,19317000.0
+South Africa,17029,2001,17902,Brackish water,Public,12370000.0
+USA,13124,1990,23782,Brackish water,Public,16487000.0
+Saudi Arabia,2350,1981,10429,Sea water,Public,7163000.0
+India,19325,2023,23297,Sea water,Public,11727000.0
+Brazil,19678,1991,15980,Brackish water,Private,9990000.0
+India,3777,2009,21536,Sea water,Private,9281000.0
+Brazil,8416,2015,18761,Sea water,Public,10606000.0
+Germany,16047,1997,26602,Sea water,Public,15082000.0
+Brazil,6572,2005,15627,Waste water,Public,7954000.0
+USA,23694,1986,23138,Waste water,Public,12207000.0
+Brazil,86152,1980,18602,Waste water,Public,8594000.0
+Saudi Arabia,3692,2005,19208,Waste water,PPP,10360000.0
+Brazil,2036,2002,19080,Brackish water,Private,10902000.0
+Saudi Arabia,10979,2005,15771,Brackish water,Private,15392000.0
+India,16673,2024,19929,Brackish water,Public,13419000.0
+Saudi Arabia,6432,1985,19686,Sea water,PPP,8661000.0
+India,34657,1985,21206,Brackish water,Private,9349000.0
+USA,2124,2023,20422,Waste water,Private,17950000.0
+USA,16202,1987,23989,Brackish water,Public,16003000.0
+Germany,4421,2003,24617,Sea water,PPP,14133000.0
+USA,45223,2001,14746,Sea water,PPP,16746000.0
+Brazil,59427,1998,24343,Brackish water,PPP,13755000.0
+Germany,3764,2016,14068,Brackish water,Public,18104000.0
+South Africa,4677,1997,22939,Waste water,Public,8625000.0
+Germany,19140,2010,23098,Sea water,Public,17592000.0
+USA,5502,2016,10443,Waste water,Public,13940000.0
+India,7743,2009,20464,Brackish water,PPP,10148000.0
+India,8311,2021,17657,Waste water,Public,8940000.0
+Saudi Arabia,1188,2012,16206,Brackish water,Public,14987000.0
+Saudi Arabia,7991,1989,26754,Brackish water,Public,13035000.0
+India,4065,2016,16731,Brackish water,Public,10787000.0
+Germany,4948,1991,15968,Waste water,Public,9995000.0
+South Africa,34325,2009,20378,Waste water,Private,12448000.0
+South Africa,2306,2006,23427,Sea water,Private,11336000.0
+India,18273,2018,19291,Sea water,Public,10490000.0
+USA,6130,1988,25831,Waste water,Public,11737000.0
+India,6125,2000,22654,Brackish water,Public,9667000.0
+USA,17860,1991,9108,Brackish water,Public,14194000.0
+USA,11384,2008,17352,Brackish water,Private,20511000.0
+Germany,14337,2012,17190,Sea water,Private,17073000.0
+Saudi Arabia,21336,2022,22396,Waste water,Private,16506000.0
+Brazil,5817,1994,6875,Waste water,Private,6198000.0
+India,4392,1981,32745,Sea water,Public,6585000.0
+India,2737,2018,22655,Sea water,PPP,9380000.0
+Saudi Arabia,3549,2023,20744,Waste water,PPP,13111000.0
+Germany,154677,1997,25907,Sea water,PPP,25874000.0
+Saudi Arabia,28132,1982,31718,Waste water,Public,10221000.0
+South Africa,2098,1986,24353,Sea water,PPP,7601000.0
+USA,2159,2022,24744,Brackish water,PPP,22601000.0
+Brazil,13119,1997,20653,Waste water,PPP,7543000.0
+Saudi Arabia,14006,2023,19292,Brackish water,Public,19413000.0
+Saudi Arabia,14029,2017,17621,Brackish water,Private,18701000.0
+India,6279,2016,15869,Brackish water,PPP,10255000.0
+Saudi Arabia,7147,2012,16564,Sea water,Private,13803000.0
+Brazil,11247,2023,13247,Sea water,Private,11529000.0
+South Africa,8829,2010,19620,Waste water,PPP,9595000.0
+Saudi Arabia,880,1990,11576,Waste water,Public,7635000.0
+Germany,6439,1983,20954,Brackish water,Private,13209000.0
+Saudi Arabia,3458,1997,19818,Sea water,Public,10930000.0
+South Africa,9654,1983,20734,Sea water,PPP,7209000.0
+Germany,160373,2013,17389,Sea water,Public,32582000.0
+India,11701,2008,35384,Brackish water,Private,13663000.0
+India,5922,2003,26800,Waste water,Private,8384000.0
+India,20369,2001,13777,Brackish water,Private,10082000.0
+USA,13130,1981,21164,Waste water,Private,10703000.0
+India,12333,2023,16959,Sea water,PPP,9793000.0
+South Africa,14866,1985,14927,Sea water,PPP,7164000.0
+USA,63357,2021,13299,Sea water,Public,24632000.0
+Germany,2615,2004,22161,Brackish water,Public,17354000.0
+South Africa,13012,2000,16593,Sea water,Public,9722000.0
+USA,3208,1995,24839,Waste water,Public,12745000.0
+Brazil,14122,2010,24968,Sea water,Private,11812000.0
+Saudi Arabia,3233,1993,26869,Waste water,PPP,9612000.0
+Germany,5338,2018,15738,Brackish water,PPP,18204000.0
+Brazil,6032,2007,22376,Waste water,Public,8934000.0
+Saudi Arabia,21500,2011,23162,Brackish water,Public,18596000.0
+Saudi Arabia,20301,2007,17629,Waste water,Private,12936000.0
+Saudi Arabia,2331,1988,16141,Sea water,Private,9369000.0
+Saudi Arabia,8560,2024,28047,Waste water,Public,15880000.0
+USA,3985,2001,21137,Waste water,PPP,12617000.0
+Saudi Arabia,2301,2011,23179,Sea water,PPP,13005000.0
+South Africa,6522,1984,15889,Sea water,Public,7095000.0
+Germany,5952,2002,13903,Brackish water,PPP,14561000.0
+India,91740,1984,17152,Waste water,Public,8349000.0
+Germany,12493,2021,19379,Brackish water,Private,23123000.0
+India,2043,2011,14678,Brackish water,Public,9707000.0
+USA,4606,1989,19950,Sea water,Public,12149000.0
+South Africa,22502,2018,11557,Sea water,PPP,11533000.0
+Saudi Arabia,65410,1994,14399,Waste water,Public,12752000.0
+Germany,1659,1986,23354,Sea water,Private,11632000.0
+USA,1236,2008,23018,Brackish water,Public,19643000.0
+USA,52625,1982,18040,Waste water,Public,12585000.0
+Saudi Arabia,11963,1998,14911,Sea water,Public,10991000.0
+Germany,3400,1989,14862,Brackish water,Public,12535000.0
+Brazil,13830,2007,18133,Sea water,Private,10402000.0
+Saudi Arabia,580,2008,23222,Brackish water,Public,15688000.0
+Germany,8130,1994,24641,Sea water,Private,14104000.0
+India,11246,2014,17517,Waste water,Private,8847000.0
+India,20420,1985,14232,Sea water,Private,6551000.0
+USA,2939,1991,21339,Brackish water,Public,15189000.0
+USA,8828,2017,15882,Brackish water,PPP,19815000.0
+USA,3211,1992,17408,Sea water,Public,12195000.0
+India,10460,2008,26626,Waste water,Public,8734000.0
+India,3309,1998,24135,Sea water,Public,7834000.0
+Saudi Arabia,5387,1982,20789,Brackish water,Public,10455000.0
+Brazil,2993,1987,13640,Sea water,Public,6349000.0
+Brazil,15539,1987,21056,Brackish water,Private,9705000.0
+Saudi Arabia,19119,1999,25313,Sea water,Public,13352000.0
+Brazil,6408,1983,18121,Brackish water,Public,7757000.0
+Germany,8418,2000,26755,Sea water,Private,15869000.0
+USA,1903,1982,26463,Waste water,Public,10326000.0
+Germany,6004,2024,28318,Sea water,Public,20333000.0
+USA,7706,1987,21526,Waste water,Public,11021000.0
+Saudi Arabia,111390,2002,22936,Waste water,Private,20005000.0
+South Africa,2665,1995,27070,Sea water,Public,9683000.0
+USA,35037,1992,22236,Brackish water,Public,19032000.0
+USA,21957,1982,17493,Sea water,Private,12242000.0
+Saudi Arabia,10728,1988,17757,Sea water,Private,10178000.0
+South Africa,47033,1993,21192,Waste water,Private,10740000.0
+Germany,11755,1992,13547,Brackish water,PPP,13016000.0
+Saudi Arabia,11958,1986,19283,Brackish water,Public,11531000.0
+USA,7683,1994,25482,Sea water,Public,14469000.0
+USA,27544,1986,9043,Sea water,Public,11621000.0
+South Africa,24257,2017,27672,Sea water,Public,14844000.0
+South Africa,4334,2013,25611,Waste water,Public,11039000.0
+USA,2166,2020,17701,Brackish water,Public,21172000.0
+South Africa,6614,2001,22716,Waste water,Private,9716000.0
+India,3640,2003,20015,Sea water,Private,8390000.0
+Brazil,7604,2016,26149,Sea water,Public,11758000.0
+Saudi Arabia,27929,2023,24913,Sea water,Private,19837000.0
+Saudi Arabia,5129,1980,12999,Sea water,Public,7474000.0
+Saudi Arabia,7763,1989,22936,Sea water,Public,10333000.0
+India,8587,2022,18971,Waste water,Private,9706000.0
+USA,18928,1995,20414,Waste water,Public,13318000.0
+USA,856,1987,16359,Brackish water,Public,13019000.0
+Germany,4417,2004,28740,Brackish water,Public,19121000.0
+India,10009,1991,25200,Sea water,PPP,7045000.0
+Germany,26905,2004,16301,Waste water,Private,14872000.0
+India,4954,1996,13326,Sea water,Public,6601000.0
+South Africa,1240,2005,18071,Waste water,PPP,8346000.0
+USA,15058,1993,22172,Brackish water,Private,18076000.0
+India,4292,2020,21201,Sea water,Private,10562000.0
+Saudi Arabia,2465,2015,26265,Waste water,PPP,12806000.0
+Brazil,4340,2002,23949,Sea water,Public,9372000.0
+USA,6737,2022,24847,Brackish water,Public,24610000.0
+India,4426,1985,21634,Brackish water,Private,7798000.0
+Brazil,892,1984,13053,Sea water,Private,6172000.0
+South Africa,19871,2022,19021,Brackish water,Private,17434000.0
+India,28994,2004,25300,Brackish water,Private,12758000.0
+Saudi Arabia,15545,1997,19742,Waste water,PPP,10096000.0
+India,2597,1992,22515,Sea water,PPP,6590000.0
+Brazil,6624,2022,18406,Waste water,PPP,9620000.0
+Saudi Arabia,8050,1993,14850,Sea water,PPP,9373000.0
+USA,14746,2007,19383,Sea water,PPP,15958000.0
+South Africa,15809,1997,21545,Sea water,Public,10114000.0
+India,3888,2007,16721,Sea water,Public,8037000.0
+India,8795,2006,18821,Sea water,Public,8458000.0
+Germany,12801,2011,15302,Waste water,PPP,13172000.0
+India,34746,1988,25596,Sea water,Private,8628000.0
+Saudi Arabia,16391,2019,18527,Sea water,Private,16388000.0
+India,17837,2011,27263,Sea water,Public,10611000.0
+USA,8811,1999,27643,Waste water,Public,14521000.0
+India,33205,2007,19594,Waste water,Private,9557000.0
+South Africa,12206,2012,14957,Sea water,Public,11071000.0
+USA,3425,1983,9570,Sea water,Public,9257000.0
+South Africa,32970,2013,12639,Sea water,Public,12478000.0
+Saudi Arabia,16283,1982,13130,Sea water,Public,8450000.0
+Brazil,5202,2005,26892,Sea water,Private,10732000.0
+India,5016,1987,20579,Brackish water,Public,7599000.0
+Saudi Arabia,10900,1985,21948,Sea water,Private,10217000.0
+India,12876,1995,8897,Brackish water,Public,7746000.0
+Brazil,9870,2003,14010,Sea water,PPP,8153000.0
+Saudi Arabia,11062,2018,24435,Waste water,Public,14440000.0
+Germany,44353,2009,21433,Waste water,Private,18636000.0
+India,23660,2024,19263,Brackish water,Private,14636000.0
+Brazil,9804,1992,22824,Sea water,Public,8241000.0
+India,20770,1984,28178,Sea water,PPP,6887000.0
+India,2885,2004,18894,Brackish water,Private,9993000.0
+Saudi Arabia,12063,1999,20346,Waste water,Public,10814000.0
+Brazil,49479,1997,20962,Brackish water,Public,13157000.0
+USA,6515,1997,31960,Waste water,PPP,13874000.0
+Saudi Arabia,3471,1981,9503,Waste water,Private,6746000.0
+USA,4221,1989,23416,Sea water,Public,12700000.0
+Germany,2725,2024,19425,Brackish water,Public,21240000.0
+Saudi Arabia,3696,1991,22833,Sea water,PPP,9840000.0
+Saudi Arabia,5594,1992,16713,Sea water,Private,10343000.0
+India,1987,1990,19755,Brackish water,Private,8150000.0
+Saudi Arabia,8230,1998,23557,Sea water,Public,12042000.0
+Saudi Arabia,19975,2014,35564,Waste water,Private,17337000.0
+Germany,3269,2018,24040,Sea water,Public,17714000.0
+Saudi Arabia,37022,2005,15759,Brackish water,Public,17292000.0
+Germany,13504,1993,17881,Brackish water,Private,15798000.0
+USA,22710,2024,17732,Brackish water,PPP,24087000.0
+India,4197,2023,11021,Sea water,Public,8923000.0
+India,19044,2003,18349,Waste water,Public,7777000.0
+India,2719,2020,23664,Brackish water,Private,12964000.0         
+Saudi Arabia,19736,1980,13628,Brackish water,Private,10583000.0
+Saudi Arabia,9622,2022,25242,Sea water,PPP,15983214.0
+Brazil,14090,2001,22438,Brackish water,Private,12532158.0

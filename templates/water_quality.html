@@ -1,0 +1,162 @@
+{% extends "base.html" %}
+
+{% block title %}Water Quality Analysis - RO Desalination Project{% endblock %}
+
+{% block content %}
+<div class="container mt-5 pt-5">
+    <h2 class="mb-4 text-center"><i class="fas fa-tint me-2"></i>Water Quality Parameters Calculator</h2>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card shadow">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="mb-0"><i class="fas fa-edit me-2"></i>Input Parameters</h4>
+                </div>
+                <div class="card-body">
+                    <form id="waterQualityForm">
+                        <div class="mb-3">
+                            <label for="rawSalinity" class="form-label"><i class="fas fa-water me-2"></i>Raw Water Salinity (mg/L)</label>
+                            <input type="number" class="form-control" id="rawSalinity" required min="0" step="0.1">
+                            <small class="text-muted">Enter the initial salinity level of water</small>
+                        </div>
+                        <div class="mb-3">
+                            <label for="plantType" class="form-label"><i class="fas fa-industry me-2"></i>Plant Type</label>
+                            <select class="form-select" id="plantType" required>
+                                <option value="">Select plant type</option>
+                                <option value="RO">Reverse Osmosis (RO)</option>
+                                <option value="MSF">Multi-Stage Flash (MSF)</option>
+                                <option value="MED">Multi-Effect Distillation (MED)</option>
+                                <option value="EDR">Electrodialysis Reversal (EDR)</option>
+                            </select>
+                            <small class="text-muted">Select the type of treatment plant</small>
+                        </div>
+                        <div class="mb-3">
+                            <label for="plantLocation" class="form-label"><i class="fas fa-map-marker-alt me-2"></i>Plant Location</label>
+                            <input type="text" class="form-control" id="plantLocation" required>
+                            <small class="text-muted">Enter the geographical location of the plant</small>
+                        </div>
+                        <div class="mb-3">
+                            <label for="plantCapacity" class="form-label"><i class="fas fa-tachometer-alt me-2"></i>Plant Capacity (m³/day)</label>
+                            <input type="number" class="form-control" id="plantCapacity" required min="0" step="1">
+                            <small class="text-muted">Enter the daily treatment capacity</small>
+                        </div>
+                        <button type="submit" class="btn btn-primary w-100">
+                            <i class="fas fa-calculator me-2"></i>Calculate Water Quality
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card shadow" id="resultsCard" style="display: none;">
+                <div class="card-header bg-success text-white">
+                    <h4 class="mb-0"><i class="fas fa-chart-bar me-2"></i>Analysis Results</h4>
+                </div>
+                <div class="card-body">
+                    <div class="mb-4">
+                        <h5><i class="fas fa-flask me-2"></i>Predicted TDS Level</h5>
+                        <div class="alert alert-info">
+                            <span id="predictedTDS" class="h4"></span> mg/L
+                        </div>
+                    </div>
+                    <div class="mb-4">
+                        <h5><i class="fas fa-chart-line me-2"></i>Water Quality Index (WQI)</h5>
+                        <div class="progress mb-2" style="height: 25px;">
+                            <div id="wqiProgress" class="progress-bar" role="progressbar" style="width: 0%"></div>
+                        </div>
+                        <p id="wqiValue" class="text-center fw-bold"></p>
+                    </div>
+                    <div class="mb-3">
+                        <h5><i class="fas fa-check-circle me-2"></i>Suitability Assessment</h5>
+                        <div class="row" id="suitabilityResults">
+                            <div class="col-md-6">
+                                <div class="alert" id="drinkingAlert">
+                                    <i class="fas fa-glass-water me-2"></i>
+                                    <span id="drinkingWater"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="alert" id="agricultureAlert">
+                                    <i class="fas fa-seedling me-2"></i>
+                                    <span id="agriculture"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="btn-container">
+        <button onclick="window.location.href='/'" class="nav-btn home-btn">
+            <i class="fas fa-home btn-icon"></i>
+            Back to Home
+        </button>
+    </div>
+</div>
+{% endblock %}
+
+{% block styles %}
+<style>
+    .nav-btn {
+        padding: 15px 30px;
+        border: none;
+        border-radius: 50px;
+        cursor: pointer;
+        font-size: 16px;
+        font-weight: 600;
+        letter-spacing: 0.5px;
+        transition: all 0.3s ease;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 12px;
+        color: white;
+        text-decoration: none;
+        box-shadow: 0 4px 15px rgba(46, 204, 113, 0.3);
+        min-width: 200px;
+        outline: none;
+        text-transform: uppercase;
+        position: relative;
+        overflow: hidden;
+        margin: 20px 0;
+    }
+
+    .home-btn {
+        background: linear-gradient(45deg, #27ae60, #2ecc71);
+    }
+
+    .home-btn:hover {
+        background: linear-gradient(45deg, #2ecc71, #27ae60);
+        transform: translateY(-3px);
+        box-shadow: 0 6px 20px rgba(46, 204, 113, 0.4);
+    }
+
+    .home-btn:active {
+        transform: translateY(1px);
+        box-shadow: 0 2px 10px rgba(46, 204, 113, 0.3);
+    }
+
+    .btn-icon {
+        font-size: 20px;
+        transition: transform 0.3s ease;
+    }
+
+    .nav-btn:hover .btn-icon {
+        transform: scale(1.1);
+    }
+
+    .btn-container {
+        text-align: center;
+        margin: 60px auto;
+        padding: 40px;
+        max-width: 800px;
+        background: #ffffff;
+        border-radius: 15px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    }
+</style>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/water_quality.js') }}"></script>
+{% endblock %}

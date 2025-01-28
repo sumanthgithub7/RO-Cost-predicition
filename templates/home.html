@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RO Plant Cost Prediction System</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #2c5282;
+            --secondary-color: #3182ce;
+            --accent-color: #48bb78;
+            --background-color: #f7fafc;
+            --text-color: #2d3748;
+            --card-background: #ffffff;
+            --hover-color: #e2e8f0;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Arial', sans-serif;
+        }
+
+        body {
+            background-color: var(--background-color);
+            color: var(--text-color);
+            padding-top: 80px;
+        }
+
+        .navbar {
+            background-color: var(--card-background);
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            padding: 15px 0;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+        }
+
+        .nav-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 20px;
+        }
+
+        .nav-logo {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: var(--primary-color);
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 30px;
+            align-items: center;
+        }
+
+        .nav-link {
+            color: var(--text-color);
+            text-decoration: none;
+            font-weight: 500;
+            padding: 8px 15px;
+            border-radius: 20px;
+            transition: all 0.3s ease;
+        }
+
+        .nav-link:hover {
+            background-color: var(--hover-color);
+            color: var(--primary-color);
+        }
+
+        .nav-link.active {
+            background-color: var(--primary-color);
+            color: white;
+        }
+
+        .header {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 60px 0;
+            text-align: center;
+            position: relative;
+        }
+
+        .header h1 {
+            font-size: 3em;
+            margin-bottom: 15px;
+        }
+
+        .header p {
+            font-size: 1.2em;
+            max-width: 800px;
+            margin: 0 auto;
+            line-height: 1.6;
+            opacity: 0.9;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        .features {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 30px;
+            margin-top: -60px;
+        }
+
+        .feature-card {
+            background: var(--card-background);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+
+        .feature-card:hover {
+            transform: translateY(-10px);
+        }
+
+        .feature-icon {
+            font-size: 3em;
+            margin-bottom: 20px;
+            color: var(--primary-color);
+        }
+
+        .feature-card h3 {
+            font-size: 1.5em;
+            margin-bottom: 15px;
+            color: var(--text-color);
+        }
+
+        .feature-card p {
+            color: #666;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+
+        .cta-section {
+            text-align: center;
+            margin-top: 60px;
+            padding: 60px 0;
+            background: var(--card-background);
+            border-radius: 20px;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+        }
+
+        .cta-section h2 {
+            font-size: 2.5em;
+            margin-bottom: 30px;
+            color: var(--text-color);
+        }
+
+        .cta-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .cta-btn {
+            padding: 15px 40px;
+            border: none;
+            border-radius: 30px;
+            font-size: 1.1em;
+            font-weight: bold;
+            text-decoration: none;
+            color: white;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .predict-btn {
+            background-color: var(--primary-color);
+        }
+
+        .predict-btn:hover {
+            background-color: var(--secondary-color);
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(44, 82, 130, 0.4);
+        }
+
+        .carbon-btn {
+            background-color: var(--accent-color);
+        }
+
+        .carbon-btn:hover {
+            background-color: #38a169;
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(72, 187, 120, 0.4);
+        }
+
+        .water-btn {
+            background-color: #4299e1;
+        }
+
+        .water-btn:hover {
+            background-color: #3182ce;
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(66, 153, 225, 0.4);
+        }
+
+        .benefits {
+            margin-top: 60px;
+        }
+
+        .benefits h2 {
+            text-align: center;
+            font-size: 2em;
+            margin-bottom: 40px;
+            color: var(--text-color);
+        }
+
+        .benefit-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 30px;
+        }
+
+        .benefit-item {
+            background: var(--card-background);
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+            display: flex;
+            align-items: flex-start;
+            gap: 20px;
+            transition: transform 0.3s ease;
+        }
+
+        .benefit-item:hover {
+            transform: translateX(10px);
+        }
+
+        .benefit-icon {
+            font-size: 2em;
+            color: var(--primary-color);
+        }
+
+        .benefit-content h3 {
+            font-size: 1.3em;
+            margin-bottom: 10px;
+            color: var(--text-color);
+        }
+
+        .benefit-content p {
+            color: #666;
+            line-height: 1.6;
+        }
+
+        @media (max-width: 768px) {
+            .features {
+                grid-template-columns: 1fr;
+            }
+
+            .benefit-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .header h1 {
+                font-size: 2em;
+            }
+
+            .cta-section h2 {
+                font-size: 2em;
+            }
+
+            .nav-links {
+                display: none;
+                position: absolute;
+                top: 100%;
+                left: 0;
+                right: 0;
+                background: var(--card-background);
+                flex-direction: column;
+                padding: 20px;
+                box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            }
+
+            .nav-links.active {
+                display: flex;
+            }
+
+            .menu-toggle {
+                display: block;
+                font-size: 1.5em;
+                cursor: pointer;
+                color: var(--primary-color);
+            }
+        }
+
+        @media (min-width: 769px) {
+            .menu-toggle {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="/" class="nav-logo">
+                <i class="fas fa-industry"></i>
+                RO Plant System
+            </a>
+            <div class="menu-toggle">
+                <i class="fas fa-bars"></i>
+            </div>
+            <div class="nav-links">
+                <a href="/" class="nav-link active">Home</a>
+                <a href="/input" class="nav-link">Cost Prediction</a>
+                <a href="/carbon" class="nav-link">Carbon Calculator</a>
+                <a href="/water-quality" class="nav-link">Water Quality</a>
+                <a href="/about" class="nav-link">About</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="header">
+        <h1><i class="fas fa-industry"></i> RO Plant Cost Prediction System</h1>
+        <p>Advanced machine learning solution for accurate cost estimation of Reverse Osmosis desalination plants</p>
+    </div>
+
+    <div class="container">
+        <div class="features">
+            <div class="feature-card">
+                <i class="fas fa-calculator feature-icon"></i>
+                <h3>Cost Prediction</h3>
+                <p>Accurate cost estimation using advanced machine learning algorithms trained on extensive industry data.</p>
+            </div>
+            <div class="feature-card">
+                <i class="fas fa-leaf feature-icon"></i>
+                <h3>Carbon Calculator</h3>
+                <p>Estimate the environmental impact and carbon footprint of your RO plant project.</p>
+            </div>
+
+            <div class="feature-card">
+                <i class="fas fa-tint feature-icon"></i>
+                <h3>Water Quality</h3>
+                <p>Analyze TDS levels and Water Quality Index (WQI) to determine water suitability for drinking and agricultural use.</p>
+            </div>
+
+        </div>
+
+        <div class="cta-section">
+            <h2>Start Your Analysis</h2>
+            <div class="cta-buttons">
+                <a href="/input" class="cta-btn predict-btn">
+                    <i class="fas fa-calculator"></i>
+                    Predict Cost
+                </a>
+                <a href="/carbon" class="cta-btn carbon-btn">
+                    <i class="fas fa-leaf"></i>
+                    Carbon Calculator
+                </a>
+                <a href="/water-quality" class="cta-btn water-btn">
+                    <i class="fas fa-tint"></i>
+                    Water Quality
+                </a>
+            </div>
+        </div>
+
+        <div class="benefits">
+            <h2>Key Benefits</h2>
+            <div class="benefit-grid">
+                <div class="benefit-item">
+                    <i class="fas fa-bullseye benefit-icon"></i>
+                    <div class="benefit-content">
+                        <h3>Accurate Predictions</h3>
+                        <p>Our ML model provides highly accurate cost predictions based on real industry data.</p>
+                    </div>
+                </div>
+                <div class="benefit-item">
+                    <i class="fas fa-clock benefit-icon"></i>
+                    <div class="benefit-content">
+                        <h3>Time Saving</h3>
+                        <p>Get instant cost estimates without lengthy manual calculations.</p>
+                    </div>
+                </div>
+                <div class="benefit-item">
+                    <i class="fas fa-chart-line benefit-icon"></i>
+                    <div class="benefit-content">
+                        <h3>Detailed Analysis</h3>
+                        <p>Comprehensive breakdown of costs and environmental impact analysis.</p>
+                    </div>
+                </div>
+                <div class="benefit-item">
+                    <i class="fas fa-sync-alt benefit-icon"></i>
+                    <div class="benefit-content">
+                        <h3>Regular Updates</h3>
+                        <p>Continuously updated model with the latest industry data and trends.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.querySelector('.menu-toggle').addEventListener('click', function() {
+            document.querySelector('.nav-links').classList.toggle('active');
+        });
+    </script>
+</body>
+</html>
