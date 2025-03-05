@@ -18,8 +18,6 @@ The model is trained on a dataset containing:
 - 🏭 **Plant Type** (categorical)
 - 💰 **Project Financing Type** (categorical)
 - 💵 **Capital Cost** (output variable)
-- 🌿 **Carbon Footprint Data** (additional environmental impact metrics)
-- 🔬 **Water Quality Data** (TDS, contaminants, and usability indicators)
 
 ## 🛠️ Technology Stack
 
@@ -30,11 +28,6 @@ The model is trained on a dataset containing:
 
 ### 🔹 Frontend
 - 🌐 **UI Framework:** HTML, CSS, JavaScript
-- ⚛️ **Navigation & Interactivity:** React.js *(Planned)*
-
-### 🔹 Deployment
-- 🚀 **Server:** Flask / FastAPI *(Planned)*
-- ☁️ **Hosting:** GitHub Pages / Heroku / AWS *(Planned)*
 
 ## 🚀 Installation
 1️⃣ Clone the repository:
@@ -71,9 +64,7 @@ The model is trained on a dataset containing:
 ## 🤝 Contributing
 Feel free to **fork** this repository, make feature enhancements, and submit a **pull request**! 🚀
 
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ## 📬 Contact
-For any inquiries or collaboration, reach out at **your-email@example.com**.
+For any inquiries or collaboration, reach out at **sumanth.1si22cs053@gmail.com**.
 
