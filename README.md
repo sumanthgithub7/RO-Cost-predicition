@@ -41,3 +41,39 @@ The model is trained on a dataset containing:
    ```bash
    git clone https://github.com/yourusername/ro-desalination-cost-prediction.git
    cd ro-desalination-cost-prediction
+   ```
+2️⃣ Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3️⃣ Run the model:
+   ```bash
+   python train.py
+   ```
+4️⃣ Start the UI (if available):
+   ```bash
+   npm install
+   npm start
+   ```
+
+## 🎯 Usage
+- 🏗️ **Input plant details** via the UI.
+- 📊 **Get the predicted capital cost**.
+- 🌿 **Use additional features** like the carbon footprint calculator and water quality estimator.
+
+## 🔮 Future Enhancements
+- 🚀 **Improve Model Accuracy:** Fine-tune hyperparameters.
+- 🌍 **Deploy Full Web Application:** Host the UI and backend.
+- 🎨 **Enhance UI/UX:** Interactive graphs and visualizations.
+- 💧 **Expand Water Quality Estimation:** Integrate more water quality parameters.
+- 🌱 **Enhance Carbon Footprint Calculation:** Refine the model with more environmental data.
+
+## 🤝 Contributing
+Feel free to **fork** this repository, make feature enhancements, and submit a **pull request**! 🚀
+
+## 📜 License
+This project is licensed under the **MIT License**.
+
+## 📬 Contact
+For any inquiries or collaboration, reach out at **your-email@example.com**.
+
